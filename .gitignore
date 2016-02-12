@@ -1,0 +1,12 @@
+*.html
+*.odt
+*.pdf
+*.tex
+*.log
+*.aux
+*.dvi
+*.ps
+*.bbl
+*.blg
+*~
+*.swp
