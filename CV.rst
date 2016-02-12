@@ -68,15 +68,15 @@ Advanced Courses
 ________________
 
 
-   **25-27 June 2013** Leadership In Science Course
+**25-27 June 2013** Leadership In Science Course
 
-   **8-10 May 2012** High Performance Computing Course: Debuggin, Profiling and Optimisation
+**8-10 May 2012** High Performance Computing Course: Debuggin, Profiling and Optimisation
    
-   **8-9 Decemeber 2010** Project Management Course
+**8-9 Decemeber 2010** Project Management Course
    
-   **14-18 April 2008** High Performance Computing Course: Introduction to MPI and Python
+**14-18 April 2008** High Performance Computing Course: Introduction to MPI and Python
    
-   **10-14 Sept 2007** EUROCEAN/CARBOCEAN Summer School on Inverse Modelling and Data Assimilation
+**10-14 Sept 2007** EUROCEAN/CARBOCEAN Summer School on Inverse Modelling and Data Assimilation
 
 Academic Educational background
 -------------------------------
