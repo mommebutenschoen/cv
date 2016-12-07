@@ -1,11 +1,11 @@
 ===========================
-Momme Butenschön (PhD, MSc) 
+Momme Butenschön (PhD, MSc)
 ===========================
 
 **Senior Scientist, Marine Ecosystem Modeller,**
 **Plymouth Marine Laboratory, Prospect Place, The Hoe, Plymouth, UK**
 
-**Tel.: +44-(0)1752-633429 - E-mail: momm@pml.ac.uk**
+**E-mail: momm@pml.ac.uk**
 
 http://www.pml.ac.uk/about_us/pml_people-1/momme_butenschon.aspx
 
@@ -13,15 +13,16 @@ http://www.researchgate.net/profile/Momme_Butenschoen
 
 http://scholar.google.co.uk/citations?user=rvuqGM4AAAAJ
 
-Professional experience 
+
+Professional experience
 -----------------------
 
 Current position
    Senior Scientist position at the `Plymouth Marine Laboratory` as Marine Ecosystem Modeller.
-   Leading the development of the ecosystem model ERSEM_ 
+   Leading the development of the ecosystem model ERSEM_
    developed in-house and in collaboration
    with teams at the UK met-office, the National Oceanographic Centre (NOC) and the Centre for Environment, Fisheries and Aquaculture Science (CEFAS), as well as the development of coupled physical biogeochemical systems based on current models for ocean physics such as NEMO, POLCOMS and GOTM,
-   in particular the modelling system for the North-West European Shelf within the Copernicus Marine Environmental Monitoring Service (CMEMS). 
+   in particular the modelling system for the North-West European Shelf within the Copernicus Marine Environmental Monitoring Service (CMEMS).
    Studies on impacts of anthropogenic and climate change on the marine ecosystem,
    natural variability and interannual variability and model uncertainty;
    strong involvement in a multitude of research initiatives such as the EU Horizon 2020 projects NOWMAPS (CMEMS), CERES, TAPAS, the EU
@@ -38,7 +39,7 @@ Since March 2012
 
 February 2008 - July 2012
    Scientist position at the `Plymouth Marine Laboratory`_ as Marine Ecosystem
-   Modeller on the development of the ecosystem model ERSEM_ 
+   Modeller on the development of the ecosystem model ERSEM_
    and its coupling to general circulation models; strong involvement in a
    multitude of research initiatives.
 
@@ -46,16 +47,16 @@ February 2008 - July 2012
    Post-Doc (Full time employee) - Università di Bologna: Development
    of a coupled marine ecosystem dynamics model including data assimilation based on
    the Princeton Ocean Model and the Biogoechemical Flux Model.
- 
+
 2003 - 2007
    Post-Graduate (Full time employee) - Università di Bologna: Development
    of a coupled marine ecosystem dynamics model including data assimilation
    as part of the EU FP5 MFSTEP project.
- 
+
 2002 - 2003
    Post-Graduate (Full time employee) - Centro di Ricerca Nazionale Bologna:
    Development of an Air-pollution/Atmospheric-Chemistry-Dynamics Model.
- 
+
 2001
    Graduate Student (Full time employee, 8 month) - FOI, Stockholm: Turbulence
    modelling in compressible flow, air wing simulations, rocket nozzle flow.
@@ -64,10 +65,11 @@ February 2008 - July 2012
    Graduate Student (Part time employee, 60h/month for 1 year) - Technische
    Universität Berlin: Research projects on turbulence modelling and air wing
    simulations.
- 
+
 Jun 1999 - Sep 1999
    Graduate Student (Full time employee) - Flygteknisk Főrsőksanstalt
    Stockholm: Research project on flow simulations of rocket nozzles.
+
 
 Advanced Courses
 ----------------
@@ -75,21 +77,23 @@ Advanced Courses
 **25-27 June 2013** Leadership In Science Course
 
 **8-10 May 2012** High Performance Computing Course: Debugging, Profiling and Optimisation
-   
+
 **8-9 Decemeber 2010** Project Management Course
-   
+
 **14-18 April 2008** High Performance Computing Course: Introduction to MPI and Python
-   
+
 **10-14 Sept 2007** EUROCEAN/CARBOCEAN Summer School on Inverse Modelling and Data Assimilation
+
 
 Academic Educational background
 -------------------------------
 
 Alma Mater Studiorum Università di Bologna, 25 June 2007
-   Dottorato di Ricerca (PhD): Geophysics, Marine Ecosystem Modelling 
+   Dottorato di Ricerca (PhD): Geophysics, Marine Ecosystem Modelling
 
 Technische Universität Berlin, Kungliga Tekniska Högskolan Stockholm, 2002
    Dipl. Ing. (MSc): Physikalische Ingenieurwissenshaft/Engineering Physics
+
 
 Teaching and Supervision
 ------------------------
@@ -99,6 +103,7 @@ Teaching and Supervision
 - Supervision of scientific trainee (6 month) leading into permanent position at Scientist level.
 - Lecturer on coupled models for marine ecosystem dynamics at the SESAME summer school in Malta 2008.
 - Workshops on the use and development of the ERSEM model and its products within the CMEMS program, the EU FP7 project MEDINA for knowledge transfer to North African countries, the UK Shelf Seas Biogeochemistry and Marine Ecosystem Research Program as well as at the Korean Institute of Ocean Science and Technology.
+
 
 Language Skills
 ---------------
@@ -121,6 +126,7 @@ French
 Spanish
    Moderate
 
+
 Scientific Publications in peer-reviewed Journals
 -------------------------------------------------
 
@@ -128,15 +134,13 @@ Artioli, Y., Blackford, J.C., **Butenschön, M.**, Holt, J.T., Wakelin, S.L., Th
 
 Artioli, Y., Blackford, J.C., Nondal, G., Bellerby, R.G.J., Wakelin, S.L., Holt, J.T., **Butenschön, M.**, Allen, J.I., 2014. Heterogeneity of impacts of high CO2 on the North Western European Shelf. Biogeosciences 11, 601–612. doi:10.5194/bg-11-601-2014
 
-Beaulieu, C., Cole, H., Henson, S., Yool, A., Anderson, T.R., de Mora, L., Buitenhuis, E.T., **Butenschön, M.**, Totterdell, I.J., Allen, J.I., 2015. Marine regime shifts in ocean biogeochemical models: a case study in the Gulf of Alaska. Biogeosciences Discuss. 12, 14003–14048, accepted in Biogeosciences. doi:10.5194/bgd-12-14003-2015
+Beaulieu, C., Cole, H., Henson, S., Yool, A., Anderson, T.R., de Mora, L., Buitenhuis, E.T., **Butenschön, M.**, Totterdell, I.J., Allen, J.I., 2016. Marine regime shifts in ocean biogeochemical models: a case study in the Gulf of Alaska. Biogeosciences 13, 4533–4553. doi:10.5194/bg-13-4533-2016
 
 **Butenschön, M.**, Clark, J., Aldridge, J.N., Allen, J.I., Artioli, Y., Blackford, J., Bruggeman, J., Cazenave, P., Ciavatta, S., Kay, S., Lessin, G., van Leeuwen, S., van der Molen, J., de Mora, L., Polimene, L., Sailley, S., Stephens, N., Torres, R., 2015. ERSEM 15.06: a generic model for marine biogeochemistry and the ecosystem dynamics of the lower trophic levels. Geosci. Model Dev. 9, 1293–1339. doi:10.5194/gmd-9-1293-2016
 
 **Butenschön, M.**, Zavatarelli, M., 2012. A comparison of different versions of the SEEK Filter for assimilation of biogeochemical data in numerical models of marine ecosystem dynamics. Ocean Modelling 54-55, 37 – 54. doi:10.1016/j.ocemod.2012.06.003
 
 **Butenschön, M.**, Zavatarelli, M., Vichi, M., 2012. Sensitivity of a marine coupled physical biogeochemical model to time resolution, integration scheme and time splitting method. Ocean Modelling 52-53, 36 – 53. doi:10.1016/j.ocemod.2012.04.008
-
-**Butenschön, M.**, 2007. Numerical simulations of the coastal marine ecosystem dynamics: integration techniques and data assimilation in a complex physical-biogeochemical model. Università di Bologna.
 
 Christensen, A., **Butenschön, M.**, Gürkan, Z., Allen, I.J., 2013. Towards an integrated forecasting system for fisheries on habitat-bound stocks. Ocean Science 9, 261 – 279. doi:10.5194/os-9-261-2013
 
@@ -195,11 +199,12 @@ Wakelin, S.L., Artioli, Y., **Butenschön, M.**, Allen, J.I., Holt, J.T., 2015. 
 Wakelin, S.L., Holt, J.T., Blackford, J.C., Allen, J.I., **Butenschön, M.**, Artioli, Y., 2012. Modeling the carbon fluxes of the northwest European continental shelf: Validation and budgets. J. Geophys. Res. 117, C05020 –.
 
 
-.. _ERSEM: http://www.shelfseasmodelling.org
-.. _Plymouth Marine Laboratory: http://www.pml.ac.uk
+Other Publications:
+-------------------
 
-Selection of Relevant Project Reports
--------------------------------------
+Austen, M.C., Malcolm, S.J., Frost, M., Hattam, C., Mangi, S., Stentiford, G., Benjamins, S., Burrows, M., **Butenschön, M.**, Duck, C., Johns, D., Merino, G., Mieszkowska, N., Miles, A., Mitchell, I., Pimm, E., Smyth, T., 2011. Chapter 12: Marine, in: The UK National Ecosystem Assessment Technical Report. UK National Ecosystem Assessment. UNEP-WCMC, Cambridge, pp. 459–498.
+
+**Butenschön, M.**, 2007. Numerical simulations of the coastal marine ecosystem dynamics: integration techniques and data assimilation in a complex physical-biogeochemical model. Università di Bologna.
 
 **Butenschön, M.**, Allen, I., Yool, A., Anderson, T., Lehodey, P., 2015. Ensemble of climate forced basin-scale ecosystem simulations (2000- 2040) (No. D6.7). European Union Basin-scale Analysis, Synthesis and Integration (EURO-BASIN), European Comission FP7 Grant Agreement No. 264933.
 
@@ -209,3 +214,6 @@ Selection of Relevant Project Reports
 
 **Butenschön, M.**, Kay, S., 2013. Future scenarios of the biogeochemistry of the three regional seas (No. D51.1). VECTORS of Change in Oceans and Seas Marine Life, Impact on Economic Sectors, European Comission FP7 Grant Agreement No. 266445.
 
+
+.. _ERSEM: http://www.pml.ac.uk/Modelling/Models/ERSEM
+.. _Plymouth Marine Laboratory: http://www.pml.ac.uk
