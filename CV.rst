@@ -16,30 +16,35 @@ http://scholar.google.co.uk/citations?user=rvuqGM4AAAAJ
 Professional experience 
 -----------------------
 
-Since July 2012
+Current position
    Senior Scientist position at the `Plymouth Marine Laboratory` as Marine Ecosystem Modeller.
    Leading the development of the ecosystem model ERSEM_ 
-   developed in-house by a group of 15 permanent members of staff and in collaboration
-   with teams at the UK met-office, NOC and CEFAS, as well as its coupling
-   to current general circulation models such as NEMO, POLCOMS, GOTM and FVCOM,
-   studies on impacts of antropogenic and climate change on the marine ecosystem,
+   developed in-house and in collaboration
+   with teams at the UK met-office, the National Oceanographic Centre (NOC) and the Centre for Environment, Fisheries and Aquaculture Science (CEFAS), as well as the development of coupled physical biogeochemical systems based on current models for ocean physics such as NEMO, POLCOMS and GOTM,
+   in particular the modelling system for the North-West European Shelf within the Copernicus Marine Environmental Monitoring Service (CMEMS). 
+   Studies on impacts of anthropogenic and climate change on the marine ecosystem,
    natural variability and interannual variability and model uncertainty;
-   strong involvement in a multitude of research initiatives such as the EU
+   strong involvement in a multitude of research initiatives such as the EU Horizon 2020 projects NOWMAPS (CMEMS), CERES, TAPAS, the EU
    framework 7 projects MEECE, EURO-BASIN, MyOcean 2, OPEC, VECTORS and MEDINA
    as well as the NERC funded projects iMarnet, SSB, MERP, UKOA and others.
- 
+   Manager for High Performance Computing resources at the Plymouth Marine Laboratory and Co-Manager of Ocean Modelling Consortium at the UK National Supercomputing Service "archer".
+
+
+Since April 2016
+   Co-chair of the Activity Group for Next Generation Biogeochemical Model Development in the National Partnership for Ocean Prediction.
+
 Since March 2012
    Nominated Member of the ICES Expert Group on Integrative, Biological-Physical Modelling.
 
 February 2008 - July 2012
    Scientist position at the `Plymouth Marine Laboratory`_ as Marine Ecosystem
-   Modeller on the development of the ecosystem model name ERSEM_ 
+   Modeller on the development of the ecosystem model ERSEM_ 
    and its coupling to general circulation models; strong involvement in a
    multitude of research initiatives.
 
 2007 - 2008
    Post-Doc (Full time employee) - Università di Bologna: Development
-   of a coupled marine ecosystem dynamics model, data assimilation based on
+   of a coupled marine ecosystem dynamics model including data assimilation based on
    the Princeton Ocean Model and the Biogoechemical Flux Model.
  
 2003 - 2007
@@ -53,7 +58,7 @@ February 2008 - July 2012
  
 2001
    Graduate Student (Full time employee, 8 month) - FOI, Stockholm: Turbulence
-   Modelling, air wing simulations, rocket nozzle flow.
+   modelling in compressible flow, air wing simulations, rocket nozzle flow.
 
 2000 - 2001
    Graduate Student (Part time employee, 60h/month for 1 year) - Technische
@@ -65,12 +70,11 @@ Jun 1999 - Sep 1999
    Stockholm: Research project on flow simulations of rocket nozzles.
 
 Advanced Courses
-________________
-
+----------------
 
 **25-27 June 2013** Leadership In Science Course
 
-**8-10 May 2012** High Performance Computing Course: Debuggin, Profiling and Optimisation
+**8-10 May 2012** High Performance Computing Course: Debugging, Profiling and Optimisation
    
 **8-9 Decemeber 2010** Project Management Course
    
@@ -90,11 +94,11 @@ Technische Universität Berlin, Kungliga Tekniska Högskolan Stockholm, 2002
 Teaching and Supervision
 ------------------------
 
-- Line manager of three permenant members of research staff at the Plymouth Marine Laboratory.
+- Line manager of three permanent scientists at the Plymouth Marine Laboratory.
 - Supervision of two placement students (1 year full time placement in the 3rd year of the undergraduate program).
 - Supervision of scientific trainee (6 month) leading into permanent position at Scientist level.
 - Lecturer on coupled models for marine ecosystem dynamics at the SESAME summer school in Malta 2008.
-- Workshops on the use and development of the ERSEM model within the FP7 MEDINA for knowledge transfer to North African countries, the UK Shelf Seas Biogeochemistry program as well as at the Korean Institue of Ocean Science and Technology.
+- Workshops on the use and development of the ERSEM model and its products within the CMEMS program, the EU FP7 project MEDINA for knowledge transfer to North African countries, the UK Shelf Seas Biogeochemistry and Marine Ecosystem Research Program as well as at the Korean Institute of Ocean Science and Technology.
 
 Language Skills
 ---------------
@@ -117,30 +121,30 @@ French
 Spanish
    Moderate
 
-Publications
-------------
+Scientific Publications in peer-reviewed Journals
+-------------------------------------------------
 
 Artioli, Y., Blackford, J.C., **Butenschön, M.**, Holt, J.T., Wakelin, S.L., Thomas, H., Borges, A.V., Allen, J.I., 2012. The carbonate system in the North Sea: Sensitivity and model validation. Journal of Marine Systems 102–104, 1–13. doi:10.1016/j.jmarsys.2012.04.006
 
 Artioli, Y., Blackford, J.C., Nondal, G., Bellerby, R.G.J., Wakelin, S.L., Holt, J.T., **Butenschön, M.**, Allen, J.I., 2014. Heterogeneity of impacts of high CO2 on the North Western European Shelf. Biogeosciences 11, 601–612. doi:10.5194/bg-11-601-2014
 
-Austen, M.C., Malcolm, S.J., Frost, M., Hattam, C., Mangi, S., Stentiford, G., Benjamins, S., Burrows, M., **Butenschön, M.**, Duck, C., Johns, D., Merino, G., Mieszkowska, N., Miles, A., Mitchell, I., Pimm, E., Smyth, T., 2011. Chapter 12: Marine, in: The UK National Ecosystem Assessment Technical Report. UK National Ecosystem Assessment. UNEP-WCMC, Cambridge, pp. 459–498.
+Beaulieu, C., Cole, H., Henson, S., Yool, A., Anderson, T.R., de Mora, L., Buitenhuis, E.T., **Butenschön, M.**, Totterdell, I.J., Allen, J.I., 2015. Marine regime shifts in ocean biogeochemical models: a case study in the Gulf of Alaska. Biogeosciences Discuss. 12, 14003–14048, accepted in Biogeosciences. doi:10.5194/bgd-12-14003-2015
 
-Beaulieu, C., Cole, H., Henson, S., Yool, A., Anderson, T.R., de Mora, L., Buitenhuis, E.T., **Butenschön, M.**, Totterdell, I.J., Allen, J.I., 2015. Marine regime shifts in ocean biogeochemical models: a case study in the Gulf of Alaska. Biogeosciences Discuss. 12, 14003–14048. doi:10.5194/bgd-12-14003-2015
-
-**Butenschön, M.**, 2007. Numerical simulations of the coastal marine ecosystem dynamics: integration techniques and data assimilation in a complex physical-biogeochemical model. Università di Bologna.
-
-**Butenschön, M.**, Clark, J., Aldridge, J.N., Allen, J.I., Artioli, Y., Blackford, J., Bruggeman, J., Cazenave, P., Ciavatta, S., Kay, S., Lessin, G., van Leeuwen, S., van der Molen, J., de Mora, L., Polimene, L., Sailley, S., Stephens, N., Torres, R., 2015. ERSEM 15.06: a generic model for marine biogeochemistry and the ecosystem dynamics of the lower trophic levels. Geosci. Model Dev. Discuss. 8, 7063–7187. doi:10.5194/gmdd-8-7063-2015
+**Butenschön, M.**, Clark, J., Aldridge, J.N., Allen, J.I., Artioli, Y., Blackford, J., Bruggeman, J., Cazenave, P., Ciavatta, S., Kay, S., Lessin, G., van Leeuwen, S., van der Molen, J., de Mora, L., Polimene, L., Sailley, S., Stephens, N., Torres, R., 2015. ERSEM 15.06: a generic model for marine biogeochemistry and the ecosystem dynamics of the lower trophic levels. Geosci. Model Dev. 9, 1293–1339. doi:10.5194/gmd-9-1293-2016
 
 **Butenschön, M.**, Zavatarelli, M., 2012. A comparison of different versions of the SEEK Filter for assimilation of biogeochemical data in numerical models of marine ecosystem dynamics. Ocean Modelling 54-55, 37 – 54. doi:10.1016/j.ocemod.2012.06.003
 
 **Butenschön, M.**, Zavatarelli, M., Vichi, M., 2012. Sensitivity of a marine coupled physical biogeochemical model to time resolution, integration scheme and time splitting method. Ocean Modelling 52-53, 36 – 53. doi:10.1016/j.ocemod.2012.04.008
 
+**Butenschön, M.**, 2007. Numerical simulations of the coastal marine ecosystem dynamics: integration techniques and data assimilation in a complex physical-biogeochemical model. Università di Bologna.
+
 Christensen, A., **Butenschön, M.**, Gürkan, Z., Allen, I.J., 2013. Towards an integrated forecasting system for fisheries on habitat-bound stocks. Ocean Science 9, 261 – 279. doi:10.5194/os-9-261-2013
 
 Chust, G., Allen, J.I., Bopp, L., Schrum, C., Holt, J., Tsiaras, K., Zavatarelli, M., Chifflet, M., Cannaby, H., Dadou, I., Daewel, U., Wakelin, S.L., Machu, E., Pushpadas, D., **Butenschön, M.**, Artioli, Y., Petihakis, G., Smith, C., Garçon, V., Goubanova, K., Le Vu, B., Fach, B.A., Salihoglu, B., Clementi, E., Irigoien, X., 2014. Biomass changes and trophic amplification of plankton in a warmer ocean. Glob Change Biol 20, 2124–2139. doi:10.1111/gcb.12562
 
-de Mora, L., **Butenschön, M.**, Allen, J.I., 2015. The role of ecosystem function and emergent relationships in the assessment of global marine ecosystem models: a case study with ERSEM. Geosci. Model Dev. Discuss. 8, 6095–6141. doi:10.5194/gmdd-8-6095-2015
+Ciavatta, S., Kay, S., Saux-Picart, S., **Butenschön, M.**, Allen, J.I., 2016. Decadal reanalysis of biogeochemical indicators and fluxes in the North West European shelf-sea ecosystem. J. Geophys. Res. Oceans 121, 1824–1845. doi:10.1002/2015JC011496
+
+de Mora, L., **Butenschön, M.**, Allen, J.I., 2016. The assessment of a global marine ecosystem model on the basis of emergent properties and ecosystem function: a case study with ERSEM. Geosci. Model Dev. 9, 59–76. doi:10.5194/gmd-9-59-2016
 
 de Mora, L., **Butenschön, M.**, Allen, J.I., 2013. How should sparse marine in situ measurements be compared to a continuous model: an example. Geosci. Model Dev. 6, 533–548. doi:10.5194/gmd-6-533-2013
 
@@ -160,7 +164,7 @@ Holt, J., Icarus Allen, J., Anderson, T.R., Brewin, R., **Butenschön, M.**, Har
 
 Holt, J., Schrum, C., Cannaby, H., Daewel, U., Allen, I., Artioli, Y., Bopp, L., **Butenschon, M.**, Fach, B.A., Harle, J., Pushpadas, D., Salihoglu, B., Wakelin, S., 2016. Potential impacts of climate change on the primary production of regional seas: A comparative analysis of five European seas. Progress in Oceanography 140, 91–115. doi:10.1016/j.pocean.2015.11.004
 
-Holt, J., Schrum, C., Cannaby, H., Daewel, U., Allen, I., Artioli, Y., Bopp, L., **Butenschon, M.**, Fach, B.A., Harle, J., Pushpadas, D., Salihoglu, B., Wakelin, S., 2014. Physical processes mediating climate change impacts on regional sea ecosystems. Biogeosciences Discuss. 11, 1909 –1975. doi:10.5194/bgd-11-1909-2014
+Kay, S., Butenschön, M., n.d. Projections of change in key ecosystem indicators for planning and management of Marine Protected Areas: An example study for European seas. Estuarine, Coastal and Shelf Science. doi:10.1016/j.ecss.2016.03.003
 
 Kwiatkowski, L., Yool, A., Allen, J.I., Anderson, T.R., Barciela, R., Buitenhuis, E.T., **Butenschön, M.**, Enright, C., Halloran, P.R., Le Quéré, C., de Mora, L., Racault, M.-F., Sinha, B., Totterdell, I.J., Cox, P.M., 2014b. iMarNet: an ocean biogeochemistry model intercomparison project within a common physical ocean modelling framework. Biogeosciences 11, 7291–7304. doi:10.5194/bg-11-7291-2014
 
@@ -175,6 +179,8 @@ Polimene, L., Archer, S.D., **Butenschön, M.**, Allen, J.I., 2012a. A mechanist
 Polimene, L., Brunet, C., Allen, J.I., **Butenschön, M.**, White, D.A., Llewellyn, C.A., 2012b. Modelling xanthophyll photoprotective activity in phytoplankton. Journal of Plankton Research 34, 196 – 207. doi:10.1093/plankt/fbr102
 
 Polimene, L., Brunet, C., **Butenschön, M.**, Martinez-Vicente, V., Widdicombe, C., Torres, R., Allen, J.I., 2014. Modelling a light-driven phytoplankton succession. J. Plankton Res. 36, 214–229. doi:10.1093/plankt/fbt086
+
+Peck, M.A., Arvanitidis, C., Butenschön, M., Canu, D.M., Chatzinikolaou, E., Cucco, A., Domenici, P., Fernandes, J.A., Gasche, L., Huebert, K.B., Hufnagl, M., Jones, M.C., Kempf, A., Keyl, F., Maar, M., Mahévas, S., Marchal, P., Nicolas, D., Pinnegar, J.K., Rivot, E., Rochette, S., Sell, A.F., Sinerchia, M., Solidoro, C., Somerfield, P.J., Teal, L.R., Travers-Trolet, M., van de Wolfshaar, K.E., n.d. Projecting changes in the distribution and productivity of living marine resources: A critical review of the suite of modelling approaches used in the large European project VECTORS. Estuarine, Coastal and Shelf Science. doi:10.1016/j.ecss.2016.05.019
 
 Queirós, A.M., Bruggeman, J., Stephens, N., Artioli, Y., **Butenschön, M.**, Blackford, J.C., Widdicombe, S., Allen, J.I., Somerfield, P.J., 2015. Placing biodiversity in ecosystem models without getting lost in translation. Journal of Sea Research, Protecting Marine Biodiversity to Preserve Ecosystem Functioning: a Tribute to Carlo Heip 98, 83–90. doi:10.1016/j.seares.2014.10.004
 
@@ -191,3 +197,15 @@ Wakelin, S.L., Holt, J.T., Blackford, J.C., Allen, J.I., **Butenschön, M.**, Ar
 
 .. _ERSEM: http://www.shelfseasmodelling.org
 .. _Plymouth Marine Laboratory: http://www.pml.ac.uk
+
+Selection of Relevant Project Reports
+-------------------------------------
+
+**Butenschön, M.**, Allen, I., Yool, A., Anderson, T., Lehodey, P., 2015. Ensemble of climate forced basin-scale ecosystem simulations (2000- 2040) (No. D6.7). European Union Basin-scale Analysis, Synthesis and Integration (EURO-BASIN), European Comission FP7 Grant Agreement No. 264933.
+
+**Butenschön, M.**, Allen, I., Bruun, J., Yool, A., Anderson, T., 2015. Atlas of past & future changes in basin-scale biogeography & fisheries habitat based on model output (No. D6.8). European Union Basin-scale Analysis, Synthesis and Integration (EURO-BASIN), European Comission FP7 Grant Agreement No. 264933.
+
+**Butenschön, M.**, Allen, I., Salley, S., Yool, A., Anderson, T., Memery, L., 2015. Report on the sensitivity of the planktonic ecosystem of the North Atlantic to climate changes (No. D6.9). European Union Basin-scale Analysis, Synthesis and Integration (EURO-BASIN), European Comission FP7 Grant Agreement No. 264933.
+
+**Butenschön, M.**, Kay, S., 2013. Future scenarios of the biogeochemistry of the three regional seas (No. D51.1). VECTORS of Change in Oceans and Seas Marine Life, Impact on Economic Sectors, European Comission FP7 Grant Agreement No. 266445.
+
