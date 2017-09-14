@@ -58,7 +58,7 @@ body {
 div#header, header
     {
     /* Put border on bottom. Separates it from TOC or body that comes after it. */
-    border-bottom: 1px solid #aaa;
+    border-bottom: 2px solid black;
     margin-bottom: 0.5em;
     }
 
@@ -88,6 +88,13 @@ div#TOC, nav#TOC
     }
 
 @media print
+
+    {
+    html * {
+      font-size: 10px;
+    }
+
+    }
     {
     div#TOC, nav#TOC
         {
@@ -110,6 +117,11 @@ h1, h2, h3, h4, h5, h6
 h1 {
     margin-top: 3em;
     font-size: x-large;
+    font-weight: 400;
+}
+
+h1.title {
+    font-weight: 500;
 }
 
 /* Pandoc with --section-divs option */
@@ -385,7 +397,7 @@ tr td:first-child, tr th:first-child
 
 th /* Table header cells */
     {
-    font-weight: bold;
+    font-weight: 400;
     }
 
 tfoot /* Table footer (what appears here if caption is on top?) */
@@ -407,19 +419,19 @@ caption /* This is for a table caption tag, not the p.caption Pandoc uses in a d
 
 dl /* The whole list */
     {
-    border-top: 2pt solid black;
+    border-top: 1pt solid black;
     padding-top: 0.5em;
-    border-bottom: 2pt solid black;
+    border-bottom: 1pt solid black;
     }
 
 dt /* Definition term */
     {
-    font-weight: bold;
+    font-weight: 400;
     }
 
 dd+dt /* 2nd or greater term in the list */
     {
-    border-top: 1pt solid black;
+    border-top: 1pt solid #aaa;
     padding-top: 0.5em;
     }
 
@@ -469,6 +481,16 @@ div.footnotes li[id^="fn"] /* A footnote item within that div */
 
 @media print
     {
+
+    h1 {
+        font-size: 18px;
+    }
+
+    .title {
+        font-size: 28px;
+        margin-bottom: 1em;
+    }
+
     .noprint
         {
         display:none;

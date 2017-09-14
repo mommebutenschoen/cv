@@ -2,32 +2,35 @@
 Momme Butenschön (PhD, MSc)
 ===========================
 
-**Senior Scientist, Marine Ecosystem Modeller,**
-**Plymouth Marine Laboratory, Prospect Place, The Hoe, Plymouth, UK**
+Marine Ecosystem Modeller
 
-**E-mail: momm@pml.ac.uk**
+Euro-Mediterranean Center on Climate Change (CMCC), Via M. Franceschini, 31, Bologna (BO), Italy
 
-http://www.pml.ac.uk/about_us/pml_people-1/momme_butenschon.aspx
+*e-mail: momme.butenschon@cmcc.it*
 
-http://www.researchgate.net/profile/Momme_Butenschoen
+https://www.researchgate.net/profile/Momme_Butenschoen/
 
-http://scholar.google.co.uk/citations?user=rvuqGM4AAAAJ
+https://publications.mommesworld.com/
+
+https://orcid.org/0000-0002-4592-9927
 
 
 Professional experience
 -----------------------
 
-Current position
+Current Position (since Septmeber 2017)
+    Research Scientist (first level) at th Euro-Mediterranean Center on Climate Change (CMCC) coordinating the development of the Biogoechemical Flux Model (BFM) and its implementation into the coupled Earth System Model of the institute.
+    Studies on impacts of anthropogenic and climate change on the marine ecosystem and ecosystem services,
+    natural variability and model uncertainty.
+
+July 2012 - August 2017
    Senior Scientist position at the `Plymouth Marine Laboratory` as Marine Ecosystem Modeller.
-   Leading the development of the ecosystem model ERSEM_
-   developed in-house and in collaboration
+   Leading and coordinating the development of the ecosystem model ERSEM_ developed in-house and in collaboration
    with teams at the UK met-office, the National Oceanographic Centre (NOC) and the Centre for Environment, Fisheries and Aquaculture Science (CEFAS), as well as the development of coupled physical biogeochemical systems based on current models for ocean physics such as NEMO, POLCOMS and GOTM,
    in particular the modelling system for the North-West European Shelf within the Copernicus Marine Environmental Monitoring Service (CMEMS).
-   Studies on impacts of anthropogenic and climate change on the marine ecosystem,
-   natural variability and interannual variability and model uncertainty;
-   strong involvement in a multitude of research initiatives such as the EU Horizon 2020 projects NOWMAPS (CMEMS), CERES, TAPAS, the EU
-   framework 7 projects MEECE, EURO-BASIN, MyOcean 2, OPEC, VECTORS and MEDINA
-   as well as the NERC funded projects iMarnet, SSB, MERP, UKOA and others.
+
+   strong involvement in a multitude of research initiatives such as the EU Horizon 2020 projects NOWMAPS (CMEMS), CERES, TAPAS, the EU framework 7 projects MEECE, EURO-BASIN, MyOcean 2, OPEC, VECTORS and MEDINA
+   as well as the NERC funded projects UKESM, SSB, MERP, UKOA and others.
    Manager for High Performance Computing resources at the Plymouth Marine Laboratory and Co-Manager of Ocean Modelling Consortium at the UK National Supercomputing Service "archer".
 
 
@@ -85,7 +88,7 @@ Advanced Courses
 **10-14 Sept 2007** EUROCEAN/CARBOCEAN Summer School on Inverse Modelling and Data Assimilation
 
 
-Academic Educational background
+Academic Educational Background
 -------------------------------
 
 Alma Mater Studiorum Università di Bologna, 25 June 2007
@@ -130,9 +133,14 @@ Spanish
 Scientific Publications in peer-reviewed Journals
 -------------------------------------------------
 
+*Abstracts available at*
+   http://publications.mommesworld.com
+
 Artioli, Y., Blackford, J.C., **Butenschön, M.**, Holt, J.T., Wakelin, S.L., Thomas, H., Borges, A.V., Allen, J.I., 2012. The carbonate system in the North Sea: Sensitivity and model validation. Journal of Marine Systems 102–104, 1–13. doi:10.1016/j.jmarsys.2012.04.006
 
 Artioli, Y., Blackford, J.C., Nondal, G., Bellerby, R.G.J., Wakelin, S.L., Holt, J.T., **Butenschön, M.**, Allen, J.I., 2014. Heterogeneity of impacts of high CO2 on the North Western European Shelf. Biogeosciences 11, 601–612. doi:10.5194/bg-11-601-2014
+
+Barange, M., **Butenschön, M.**, Yool, A., Beaumont, N., Fernandes, J.A., Martin, A.P., Allen, J.I., 2016. The cost of reducing the North Atlantic Ocean biological carbon pump. Front. Mar. Sci. 3. doi:10.3389/fmars.2016.00290
 
 Beaulieu, C., Cole, H., Henson, S., Yool, A., Anderson, T.R., de Mora, L., Buitenhuis, E.T., **Butenschön, M.**, Totterdell, I.J., Allen, J.I., 2016. Marine regime shifts in ocean biogeochemical models: a case study in the Gulf of Alaska. Biogeosciences 13, 4533–4553. doi:10.5194/bg-13-4533-2016
 
