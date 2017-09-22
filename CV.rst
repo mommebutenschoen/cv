@@ -19,28 +19,27 @@ Professional experience
 -----------------------
 
 Current Position (since Septmeber 2017)
-    Lead Scientist (first level) for marine ecosystem modelling at th `Euro-Mediterranean Center on Climate Change (CMCC)`_
+    Lead Scientist for marine ecosystem modelling at th `Euro-Mediterranean Center on Climate Change (CMCC)`_
     coordinating the development of the `Biogoechemical Flux Model (BFM)`_ and its implementation into the coupled Earth
     System Model of the institute.
     Studies on impacts of anthropogenic and climate change on the marine ecosystem and ecosystem services,
     natural variability and model uncertainty.
 
-July 2012 - August 2017
-   Senior Scientist position at the `Plymouth Marine Laboratory` as Marine Ecosystem Modeller.
-   Leading and coordinating the development of the ecosystem model ERSEM_ developed in-house and in collaboration
-   with teams at the UK met-office, the National Oceanographic Centre (NOC) and the Centre for Environment, Fisheries and Aquaculture Science (CEFAS), as well as the development of coupled physical biogeochemical systems based on current models for ocean physics such as NEMO, POLCOMS and GOTM,
-   in particular the modelling system for the North-West European Shelf within the Copernicus Marine Environmental Monitoring Service (CMEMS).
-   Strong involvement in a multitude of research initiatives such as the EU Horizon 2020 projects NOWMAPS (CMEMS), CERES, TAPAS, the EU framework 7
-   projects MEECE, EURO-BASIN, MyOcean 2, OPEC, VECTORS and MEDINA as well as the NERC funded projects UKESM, SSB, MERP, UKOA and others.
-   Manager for High Performance Computing resources at the Plymouth Marine Laboratory and Co-Manager of Ocean Modelling Consortium at the
-   UK National Supercomputing Service "archer".
-
-
-Since April 2016
-   Co-chair of the Activity Group for Next Generation Biogeochemical Model Development in the National Partnership for Ocean Prediction.
-
 Since March 2012
    Nominated Member of the ICES Expert Group on Integrative, Biological-Physical Modelling.
+
+April 2016 - August 2017
+   Co-chair of the Activity Group for Next Generation Biogeochemical Model Development in the National Partnership for Ocean Prediction of the UK.
+
+July 2012 - August 2017
+      Senior Scientist position at the `Plymouth Marine Laboratory` as Marine Ecosystem Modeller.
+      Leading and coordinating the development of the ecosystem model ERSEM_ developed in-house and in collaboration
+      with teams at the UK met-office, the National Oceanographic Centre (NOC) and the Centre for Environment, Fisheries and Aquaculture Science (CEFAS), as well as the development of coupled physical biogeochemical systems based on current models for ocean physics such as NEMO, POLCOMS and GOTM,
+      in particular the modelling system for the North-West European Shelf within the Copernicus Marine Environmental Monitoring Service (CMEMS).
+      Strong involvement in a multitude of research initiatives such as the EU Horizon 2020 projects NOWMAPS (CMEMS), CERES, TAPAS, the EU framework 7
+      projects MEECE, EURO-BASIN, MyOcean 2, OPEC, VECTORS and MEDINA as well as the NERC funded projects UKESM, SSB, MERP, UKOA and others.
+      Manager for High Performance Computing resources at the Plymouth Marine Laboratory and Co-Manager of Ocean Modelling Consortium at the
+      UK National Supercomputing Service "archer".
 
 February 2008 - July 2012
    Scientist position at the `Plymouth Marine Laboratory`_ as Marine Ecosystem
