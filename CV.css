@@ -496,3 +496,15 @@ div.footnotes li[id^="fn"] /* A footnote item within that div */
         display:none;
         }
     }
+
+@page :left {
+  html {
+    margin: 15mm 20mm 15mm 10mm;
+  }
+}
+
+@page :right {
+  html {
+    margin: 15mm 10mm 15mm 20mm;
+  }
+}

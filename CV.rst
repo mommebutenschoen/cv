@@ -19,7 +19,9 @@ Professional experience
 -----------------------
 
 Current Position (since Septmeber 2017)
-    Research Scientist (first level) at th Euro-Mediterranean Center on Climate Change (CMCC) coordinating the development of the Biogoechemical Flux Model (BFM) and its implementation into the coupled Earth System Model of the institute.
+    Lead Scientist (first level) for marine ecosystem modelling at th `Euro-Mediterranean Center on Climate Change (CMCC)`_
+    coordinating the development of the `Biogoechemical Flux Model (BFM)`_ and its implementation into the coupled Earth
+    System Model of the institute.
     Studies on impacts of anthropogenic and climate change on the marine ecosystem and ecosystem services,
     natural variability and model uncertainty.
 
@@ -28,10 +30,10 @@ July 2012 - August 2017
    Leading and coordinating the development of the ecosystem model ERSEM_ developed in-house and in collaboration
    with teams at the UK met-office, the National Oceanographic Centre (NOC) and the Centre for Environment, Fisheries and Aquaculture Science (CEFAS), as well as the development of coupled physical biogeochemical systems based on current models for ocean physics such as NEMO, POLCOMS and GOTM,
    in particular the modelling system for the North-West European Shelf within the Copernicus Marine Environmental Monitoring Service (CMEMS).
-
-   strong involvement in a multitude of research initiatives such as the EU Horizon 2020 projects NOWMAPS (CMEMS), CERES, TAPAS, the EU framework 7 projects MEECE, EURO-BASIN, MyOcean 2, OPEC, VECTORS and MEDINA
-   as well as the NERC funded projects UKESM, SSB, MERP, UKOA and others.
-   Manager for High Performance Computing resources at the Plymouth Marine Laboratory and Co-Manager of Ocean Modelling Consortium at the UK National Supercomputing Service "archer".
+   Strong involvement in a multitude of research initiatives such as the EU Horizon 2020 projects NOWMAPS (CMEMS), CERES, TAPAS, the EU framework 7
+   projects MEECE, EURO-BASIN, MyOcean 2, OPEC, VECTORS and MEDINA as well as the NERC funded projects UKESM, SSB, MERP, UKOA and others.
+   Manager for High Performance Computing resources at the Plymouth Marine Laboratory and Co-Manager of Ocean Modelling Consortium at the
+   UK National Supercomputing Service "archer".
 
 
 Since April 2016
@@ -222,6 +224,7 @@ Austen, M.C., Malcolm, S.J., Frost, M., Hattam, C., Mangi, S., Stentiford, G., B
 
 **Butenschön, M.**, Kay, S., 2013. Future scenarios of the biogeochemistry of the three regional seas (No. D51.1). VECTORS of Change in Oceans and Seas Marine Life, Impact on Economic Sectors, European Comission FP7 Grant Agreement No. 266445.
 
-
+.. _Euro-Mediterranean Center on Climate Change (CMCC): http://www.cmcc.it
+.. _Biogoechemical Flux Model (BFM): http://bfm-community.eu/
 .. _ERSEM: http://www.pml.ac.uk/Modelling/Models/ERSEM
 .. _Plymouth Marine Laboratory: http://www.pml.ac.uk
