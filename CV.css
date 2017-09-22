@@ -215,7 +215,7 @@ a /* All links */
         background: transparent;
         }
 
-    a[href^="http://"]:after, a[href^="https://"]:after
+    /*a[href^="http://"]:after, a[href^="https://"]:after
         {
         /* However, links that go somewhere else, might be useful to the reader,
            so for http and https links, print the URL after what was the link
@@ -223,7 +223,7 @@ a /* All links */
         */
         content: " (" attr(href) ") ";
         font-size: 90%;
-        }
+        }*/
     }
 
 /* ---- Images ---- */
@@ -456,14 +456,14 @@ a[href^="#fnref"], a.reversefootnote /* Pandoc, MultiMarkdown, ?? footnote back 
     {
     }
 
-@media print
+/*@media print
     {
     a[href^="#fnref"], a.reversefootnote /* Pandoc, MultiMarkdown */
         {
         /* Don't display these at all in print since the arrow is only something to click on */
         display: none;
         }
-    }
+    }*/
 
 div.footnotes /* Pandoc footnotes div at end of the document */
     {
