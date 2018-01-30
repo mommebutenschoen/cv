@@ -4,7 +4,7 @@ Momme Butenschön (PhD, MSc)
 
 Marine Ecosystem Modeller
 
-Euro-Mediterranean Center on Climate Change (CMCC), Via M. Franceschini, 31, Bologna (BO), Italy
+Euro-Mediterranean Center on Climate Change (CMCC), Viale B. Pichat, 6/2, Bologna (BO), Italy
 
 *e-mail: momme.butenschon@cmcc.it*
 
@@ -19,7 +19,7 @@ Professional experience
 -----------------------
 
 Current Position (since Septmeber 2017)
-    Lead Scientist for marine ecosystem modelling at th `Euro-Mediterranean Center on Climate Change (CMCC)`_
+    Lead Scientist for marine ecosystem modelling at the `Euro-Mediterranean Center on Climate Change (CMCC)`_
     coordinating the development of the `Biogoechemical Flux Model (BFM)`_ and its implementation into the coupled Earth
     System Model of the institute.
     Studies on impacts of anthropogenic and climate change on the marine ecosystem and ecosystem services,
