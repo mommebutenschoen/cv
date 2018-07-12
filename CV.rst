@@ -226,7 +226,7 @@ Austen, M.C., Malcolm, S.J., Frost, M., Hattam, C., Mangi, S., Stentiford, G., B
 
 **Butenschön, M.**, Kay, S., 2013. Future scenarios of the biogeochemistry of the three regional seas (No. D51.1). VECTORS of Change in Oceans and Seas Marine Life, Impact on Economic Sectors, European Comission FP7 Grant Agreement No. 266445.
 
-Cheung, W., Bruggeman, J., **Butenschön, M.**, 2018. Chapter 4: Projected changes in global and national potential marine fisheries catch under climate change scenarios in the twenty-first century, in: Barange, M., Bahri, T., Beveridge, M.C.M., Cochrane, K.L., Funge-Smith, S., Poulain, F. (Eds.) Impacts of Climate Change on Fisheries and Aquaculture: Synthesis of Current Knowledge, Adaptation and Mitigation Options., FAO Fisheries Technical Paper 627, 63-86. FAO, Rome, Italy.
+Cheung, W., Bruggeman, J., **Butenschön, M.**, 2018. Chapter 4: Projected changes in global and national potential marine fisheries catch under climate change scenarios in the twenty-first century, in: Barange, M., Bahri, T., Beveridge, M.C.M., Cochrane, K.L., Funge-Smith, S., Poulain, F. (Eds.) Impacts of Climate Change on Fisheries and Aquaculture: Synthesis of Current Knowledge, Adaptation and Mitigation Options., FAO Fisheries Technical Paper 627 (2018), 63-86. FAO, Rome, Italy. ISSN 2070-7010 http://www.fao.org/3/I9705EN/i9705en.pdf
 
 .. _Euro-Mediterranean Center on Climate Change (CMCC): http://www.cmcc.it
 .. _Biogoechemical Flux Model (BFM): http://bfm-community.eu/
