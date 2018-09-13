@@ -102,11 +102,12 @@ Technische Universität Berlin, Kungliga Tekniska Högskolan Stockholm, 2002
 Teaching and Supervision
 ------------------------
 
-- Line manager of three permanent scientists at the Plymouth Marine Laboratory.
-- Supervision of two placement students (1 year full time placement in the 3rd year of the undergraduate program).
-- Supervision of scientific trainee (6 month) leading into permanent position at Scientist level.
+- Contract lecturer at the Università Ca'Foscari di Venezia in the PhD program "Science and Management of Climate Change" (since 2018)
+- Line manager of three permanent scientists at the Plymouth Marine Laboratory. (2011-2017)
+- Supervision of two placement students (1 year full time placement in the 3rd year of the undergraduate program, 2008-2010).
+- Supervision of scientific trainee (6 month) leading into permanent position at Scientist level. (2010-2011)
 - Lecturer on coupled models for marine ecosystem dynamics at the SESAME summer school in Malta 2008.
-- Workshops on the use and development of the ERSEM model and its products within the CMEMS program, the EU FP7 project MEDINA for knowledge transfer to North African countries, the UK Shelf Seas Biogeochemistry and Marine Ecosystem Research Program as well as at the Korean Institute of Ocean Science and Technology.
+- various Workshops on the use and development of the ecosystem models and their products within the CMEMS program, the EU FP7 project MEDINA for knowledge transfer to North African countries, the UK Shelf Seas Biogeochemistry and Marine Ecosystem Research Program as well as at the Korean Institute of Ocean Science and Technology.
 
 
 Language Skills
