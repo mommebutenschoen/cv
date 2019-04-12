@@ -18,10 +18,9 @@ https://orcid.org/0000-0002-4592-9927
 Professional experience
 -----------------------
 
-Current Position (since Septmeber 2017)
-    Lead Scientist for marine ecosystem modelling at the `Euro-Mediterranean Center on Climate Change (CMCC)`_
-    coordinating the development of the `Biogoechemical Flux Model (BFM)`_ and its implementation into the coupled Earth
-    System Model of the institute.
+Current Position (since September 2017)
+    Lead Scientist of the Earth System Modelling Research Unit at the `Euro-Mediterranean Center on Climate Change (CMCC)`_
+    coordinating the development of the coupled Earth System Model of the institute and the `Biogoechemical Flux Model (BFM)`_ for the Marine Ecosystem.
     Studies on impacts of anthropogenic and climate change on the marine ecosystem and ecosystem services,
     natural variability and model uncertainty.
 
@@ -105,7 +104,7 @@ Teaching and Supervision
 - Contract lecturer at the Università Ca'Foscari di Venezia in the PhD program "Science and Management of Climate Change" (since 2018)
 - Line manager of three permanent scientists at the Plymouth Marine Laboratory. (2011-2017)
 - Supervision of two placement students (1 year full time placement in the 3rd year of the undergraduate program, 2008-2010).
-- Supervision of scientific trainee (6 month) leading into permanent position at Scientist level. (2010-2011)
+- Supervision of a scientific trainee (6 month) leading into a permanent position at Scientist level. (2010-2011)
 - Lecturer on coupled models for marine ecosystem dynamics at the SESAME summer school in Malta 2008.
 - various Workshops on the use and development of the ecosystem models and their products within the CMEMS program, the EU FP7 project MEDINA for knowledge transfer to North African countries, the UK Shelf Seas Biogeochemistry and Marine Ecosystem Research Program as well as at the Korean Institute of Ocean Science and Technology.
 
