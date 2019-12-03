@@ -29,7 +29,7 @@ Dicembre 2019
 
 Since 2019
     Consortium Expert on the Scientific Advisory Board of the NEMO_ constortium.
-    
+
 Since March 2012
     Nominated Member of the ICES Expert Group on Integrative, Biological-Physical Modelling.
 
@@ -222,7 +222,7 @@ Other Publications:
 
 Austen, M.C., Malcolm, S.J., Frost, M., Hattam, C., Mangi, S., Stentiford, G., Benjamins, S., Burrows, M., **Butenschön, M.**, Duck, C., Johns, D., Merino, G., Mieszkowska, N., Miles, A., Mitchell, I., Pimm, E., Smyth, T., 2011. Chapter 12: Marine, in: The UK National Ecosystem Assessment Technical Report. UK National Ecosystem Assessment. UNEP-WCMC, Cambridge, pp. 459–498.
 
-Bindoff, N.L., Cheung, W.W.L., Kairo, J.G., Aristegui, J., Guinder, V.A., Hallberg, R., Hilmi, N., Jiao, N., Karim, M.S., Levin, L., O’Donoghue, S., Purca Cuicapusa, S.R., Rinkevich, B., Suga, T., Tagliabue, A., Williamson, P., et al., 2019. Changing Ocean, Marine Ecosystems, and Dependent Communities., in: IPCC Special Report on the Ocean and Cryosphere in a Changing Climate [H.-O. Pörtner, D.C. Roberts, V. Masson-Delmotte, P. Zhai, M. Tignor, E. Poloczanska, K. Mintenbeck, A. Alegría, M. Nicolai, A. Okem, J. Petzold, B. Rama, N.M. Weyer (Eds.)], IPCC Reports. Intergovernmental Panel on Climate Change (IPCC), p. 142. (*Contributing Author*)
+Bindoff, N.L., Cheung, W.W.L., Kairo, J.G., Aristegui, J., Guinder, V.A., Hallberg, R., Hilmi, N., Jiao, N., Karim, M.S., Levin, L., O’Donoghue, S., Purca Cuicapusa, S.R., Rinkevich, B., Suga, T., Tagliabue, A., Williamson, P., et al., 2019. Changing Ocean, Marine Ecosystems, and Dependent Communities., in: IPCC Special Report on the Ocean and Cryosphere in a Changing Climate [H.-O. Pörtner, D.C. Roberts, V. Masson-Delmotte, P. Zhai, M. Tignor, E. Poloczanska, K. Mintenbeck, A. Alegría, M. Nicolai, A. Okem, J. Petzold, B. Rama, N.M. Weyer (Eds.)], IPCC Reports. Intergovernmental Panel on Climate Change (IPCC), p. 142. (*Contributing Author*) https://www.ipcc.ch/srocc/chapter/chapter-5/
 
 **Butenschön, M.**, 2007. Numerical simulations of the coastal marine ecosystem dynamics: integration techniques and data assimilation in a complex physical-biogeochemical model. Università di Bologna.
 
