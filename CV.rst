@@ -2,7 +2,7 @@
 Momme Butenschön (PhD, MSc)
 ===========================
 
-Marine Ecosystem Modeller
+Lead Scientist of the Earth System Modelling Research Unit at the `Euro-Mediterranean Center on Climate Change (CMCC)`_
 
 Euro-Mediterranean Center on Climate Change (CMCC), Viale B. Pichat, 6/2, Bologna (BO), Italy
 
@@ -24,54 +24,60 @@ Current Position (since September 2017)
     Studies on impacts of anthropogenic and climate change on the marine ecosystem and ecosystem services,
     natural variability and model uncertainty.
 
+Dicembre 2019
+    Contributing Author to the IPCC `Special Report on Ocean and Cryosphere in a Changing Climate, Chapter 5: Changing Ocean, Marine Ecosystems, and Dependent Communities`_.
+
+Since 2019
+    Consortium Expert on the Scientific Advisory Board of the NEMO_ constortium.
+    
 Since March 2012
-   Nominated Member of the ICES Expert Group on Integrative, Biological-Physical Modelling.
+    Nominated Member of the ICES Expert Group on Integrative, Biological-Physical Modelling.
 
 April 2016 - August 2017
-   Co-chair of the Activity Group for Next Generation Biogeochemical Model Development in the National Partnership for Ocean Prediction of the UK.
+    Co-chair of the Activity Group for Next Generation Biogeochemical Model Development in the National Partnership for Ocean Prediction of the UK.
 
 July 2012 - August 2017
-      Senior Scientist position at the `Plymouth Marine Laboratory` as Marine Ecosystem Modeller.
-      Leading and coordinating the development of the ecosystem model ERSEM_ developed in-house and in collaboration
-      with teams at the UK met-office, the National Oceanographic Centre (NOC) and the Centre for Environment, Fisheries and Aquaculture Science (CEFAS), as well as the development of coupled physical biogeochemical systems based on current models for ocean physics such as NEMO, POLCOMS and GOTM,
-      in particular the modelling system for the North-West European Shelf within the Copernicus Marine Environmental Monitoring Service (CMEMS).
-      Strong involvement in a multitude of research initiatives such as the EU Horizon 2020 projects NOWMAPS (CMEMS), CERES, TAPAS, the EU framework 7
-      projects MEECE, EURO-BASIN, MyOcean 2, OPEC, VECTORS and MEDINA as well as the NERC funded projects UKESM, SSB, MERP, UKOA and others.
-      Manager for High Performance Computing resources at the Plymouth Marine Laboratory and Co-Manager of Ocean Modelling Consortium at the
-      UK National Supercomputing Service "archer".
+    Senior Scientist position at the `Plymouth Marine Laboratory` as Marine Ecosystem Modeller.
+    Leading and coordinating the development of the ecosystem model ERSEM_ developed in-house and in collaboration
+    with teams at the UK met-office, the National Oceanographic Centre (NOC) and the Centre for Environment, Fisheries and Aquaculture Science (CEFAS), as well as the development of coupled physical biogeochemical systems based on current models for ocean physics such as NEMO, POLCOMS and GOTM,
+    in particular the modelling system for the North-West European Shelf within the Copernicus Marine Environmental Monitoring Service (CMEMS).
+    Strong involvement in a multitude of research initiatives such as the EU Horizon 2020 projects NOWMAPS (CMEMS), CERES, TAPAS, the EU framework 7
+    projects MEECE, EURO-BASIN, MyOcean 2, OPEC, VECTORS and MEDINA as well as the NERC funded projects UKESM, SSB, MERP, UKOA and others.
+    Manager for High Performance Computing resources at the Plymouth Marine Laboratory and Co-Manager of Ocean Modelling Consortium at the
+    UK National Supercomputing Service "archer".
 
 February 2008 - July 2012
-   Scientist position at the `Plymouth Marine Laboratory`_ as Marine Ecosystem
-   Modeller on the development of the ecosystem model ERSEM_
-   and its coupling to general circulation models; strong involvement in a
-   multitude of research initiatives.
+    Scientist position at the `Plymouth Marine Laboratory`_ as Marine Ecosystem
+    Modeller on the development of the ecosystem model ERSEM_
+    and its coupling to general circulation models; strong involvement in a
+    multitude of research initiatives.
 
 2007 - 2008
-   Post-Doc (Full time employee) - Università di Bologna: Development
-   of a coupled marine ecosystem dynamics model including data assimilation based on
-   the Princeton Ocean Model and the Biogoechemical Flux Model.
+    Post-Doc (Full time employee) - Università di Bologna: Development
+    of a coupled marine ecosystem dynamics model including data assimilation based on
+    the Princeton Ocean Model and the Biogoechemical Flux Model.
 
 2003 - 2007
-   Post-Graduate (Full time employee) - Università di Bologna: Development
-   of a coupled marine ecosystem dynamics model including data assimilation
-   as part of the EU FP5 MFSTEP project.
+    Post-Graduate (Full time employee) - Università di Bologna: Development
+    of a coupled marine ecosystem dynamics model including data assimilation
+    as part of the EU FP5 MFSTEP project.
 
 2002 - 2003
-   Post-Graduate (Full time employee) - Centro di Ricerca Nazionale Bologna:
-   Development of an Air-pollution/Atmospheric-Chemistry-Dynamics Model.
+    Post-Graduate (Full time employee) - Centro di Ricerca Nazionale Bologna:
+    Development of an Air-pollution/Atmospheric-Chemistry-Dynamics Model.
 
 2001
-   Graduate Student (Full time employee, 8 month) - FOI, Stockholm: Turbulence
-   modelling in compressible flow, air wing simulations, rocket nozzle flow.
+    Graduate Student (Full time employee, 8 month) - FOI, Stockholm: Turbulence
+    modelling in compressible flow, air wing simulations, rocket nozzle flow.
 
 2000 - 2001
-   Graduate Student (Part time employee, 60h/month for 1 year) - Technische
-   Universität Berlin: Research projects on turbulence modelling and air wing
-   simulations.
+    Graduate Student (Part time employee, 60h/month for 1 year) - Technische
+    Universität Berlin: Research projects on turbulence modelling and air wing
+    simulations.
 
 Jun 1999 - Sep 1999
-   Graduate Student (Full time employee) - Flygteknisk Főrsőksanstalt
-   Stockholm: Research project on flow simulations of rocket nozzles.
+    Graduate Student (Full time employee) - Flygteknisk Főrsőksanstalt
+    Stockholm: Research project on flow simulations of rocket nozzles.
 
 
 Advanced Courses
@@ -216,6 +222,8 @@ Other Publications:
 
 Austen, M.C., Malcolm, S.J., Frost, M., Hattam, C., Mangi, S., Stentiford, G., Benjamins, S., Burrows, M., **Butenschön, M.**, Duck, C., Johns, D., Merino, G., Mieszkowska, N., Miles, A., Mitchell, I., Pimm, E., Smyth, T., 2011. Chapter 12: Marine, in: The UK National Ecosystem Assessment Technical Report. UK National Ecosystem Assessment. UNEP-WCMC, Cambridge, pp. 459–498.
 
+Bindoff, N.L., Cheung, W.W.L., Kairo, J.G., Aristegui, J., Guinder, V.A., Hallberg, R., Hilmi, N., Jiao, N., Karim, M.S., Levin, L., O’Donoghue, S., Purca Cuicapusa, S.R., Rinkevich, B., Suga, T., Tagliabue, A., Williamson, P., et al., 2019. Changing Ocean, Marine Ecosystems, and Dependent Communities., in: IPCC Special Report on the Ocean and Cryosphere in a Changing Climate [H.-O. Pörtner, D.C. Roberts, V. Masson-Delmotte, P. Zhai, M. Tignor, E. Poloczanska, K. Mintenbeck, A. Alegría, M. Nicolai, A. Okem, J. Petzold, B. Rama, N.M. Weyer (Eds.)], IPCC Reports. Intergovernmental Panel on Climate Change (IPCC), p. 142. (*Contributing Author*)
+
 **Butenschön, M.**, 2007. Numerical simulations of the coastal marine ecosystem dynamics: integration techniques and data assimilation in a complex physical-biogeochemical model. Università di Bologna.
 
 **Butenschön, M.**, Allen, I., Yool, A., Anderson, T., Lehodey, P., 2015. Ensemble of climate forced basin-scale ecosystem simulations (2000- 2040) (No. D6.7). European Union Basin-scale Analysis, Synthesis and Integration (EURO-BASIN), European Comission FP7 Grant Agreement No. 264933.
@@ -232,3 +240,5 @@ Cheung, W., Bruggeman, J., **Butenschön, M.**, 2018. Chapter 4: Projected chang
 .. _Biogoechemical Flux Model (BFM): http://bfm-community.eu/
 .. _ERSEM: http://www.pml.ac.uk/Modelling/Models/ERSEM
 .. _Plymouth Marine Laboratory: http://www.pml.ac.uk
+.. _`Special Report on Ocean and Cryosphere in a Changing Climate, Chapter 5: Changing Ocean, Marine Ecosystems, and Dependent Communities`: https://www.ipcc.ch/srocc/chapter/chapter-5/
+.. _NEMO: https://www.nemo-ocean.eu/
