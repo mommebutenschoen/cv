@@ -6,19 +6,22 @@ Momme Butenschöm - Short Profile
 EN
 ##
 
-Momme Butenschön is the Lead Scientist of the Earth System Modelling Research Unit at CMCC.
-He has more than 10 years of experience in the field of ocean science and has developed a range of
-marine ecosystem models and model systems from coastal to gloabl applications and
-published more than 40 peer-reviewed scientific publications covering a wide
-range of topics such as physiological process studies, meta-analysis of the
-marine ecosystem and studies on the impact of climate change on the marine
-environment, food-web and ecosystem services. Since 2018 he is contract lecturer
-at the University of Venice Ca'Foscari within the PhD Program "Science and Management
- of Climate Change". He is a Contributing Author of the IPCC Special
-Report on Ocean and Cryosphere in a Changing Climtate, an invited member of the
-ICES Expert Group on Integrative, Physical-biological and Ecosystem Modelling and
-a Consortium Expert on the Scientific Advisory Board of the NEMO consortium.
-
+Momme Butenschön is Deputy Director of the Ocean Modelling and Data
+Assimilation Division andLead Scientist of the Earth System Modelling Research
+Unit at CMCC.
+He has more than 10 years of experience in the field of ocean science, has
+developed a range of marine ecosystem models and model systems from coastal to
+gloabl applications and published more than 40 peer-reviewed scientific
+publications covering a wide range of topics such as physiological process
+studies, meta-analysis of the marine ecosystem and studies on the impact of
+climate change on the marine environment, food-web and ecosystem services.
+Since 2018 he is contract lecturer at the University of Venice Ca'Foscari
+within the PhD Program "Science and Management of Climate Change".
+He is a Contributing Author of the IPCC SpecialReport on Ocean and Cryosphere
+in a Changing Climtate, an invited member of the ICES Expert Group on
+Integrative, Physical-biological and Ecosystem Modelling and a Consortium Expert
+ on the Scientific Advisory Board of the NEMO consortium.
+ 
 Prior to working at CMCC, he worked as a Senior Scientist at the Plymouth
 Marine Laboratory, where he lead the development of the marine ecosystem model
 ERSEM. Momme studied for a Masters degree in Engineering Physics at the
