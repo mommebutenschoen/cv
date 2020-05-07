@@ -7,8 +7,8 @@ EN
 ##
 
 Momme Butenschön is Deputy Director of the Ocean Modelling and Data
-Assimilation Division andLead Scientist of the Earth System Modelling Research
-Unit at CMCC.
+Assimilation Division and Lead Scientist of the Earth System Modelling Research
+Unit of the Ocena Modelling and Data Assimilation division at CMCC.
 He has more than 10 years of experience in the field of ocean science, has
 developed a range of marine ecosystem models and model systems from coastal to
 gloabl applications and published more than 40 peer-reviewed scientific
