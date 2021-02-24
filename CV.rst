@@ -4,7 +4,7 @@ Momme Butenschön (PhD, MSc)
 
 Deputy Director of the Ocean Modeling and Data Assimilation Division and Lead Scientist of the Earth System Modelling Research Unit at the `Euro-Mediterranean Center on Climate Change (CMCC)`_
 
-Euro-Mediterranean Center on Climate Change (CMCC), Viale B. Pichat, 6/2, Bologna (BO), Italy
+Centro Euro-Mediterraneo sui Cambiamenti Climatici (CMCC), Viale B. Pichat, 6/2, Bologna (BO), Italy
 
 *e-mail: momme.butenschon@cmcc.it*
 
