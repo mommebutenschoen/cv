@@ -19,13 +19,14 @@ Professional experience
 -----------------------
 
 since 2020
-    Deputy Director of the Ocean and Data Assimilation Division at the `Euro-Mediterranean Center on Climate Change (CMCC)`_
+    Deputy Director of the Ocean and Data Assimilation Division at the `Centro Euro-Mediterraneo sui Cambiamenti Climatici (CMCC)`_
 
-since September 2017)
-    Lead Scientist of the Earth System Modelling Research Unit at the `Euro-Mediterranean Center on Climate Change (CMCC)`_
+since September 2017
+    Lead Scientist of the Earth System Modelling Research Unit at the `Centro Euro-Mediterraneo sui Cambiamenti Climatici (CMCC)`_
     coordinating the development of the coupled Earth System Model of the institute and the `Biogoechemical Flux Model (BFM)`_ for the Marine Ecosystem.
     Studies on impacts of anthropogenic and climate change on the marine ecosystem and ecosystem services,
     natural variability and model uncertainty.
+    Heavily involved in various Euroepean research projects, such as FutureMARES, CE2COAST, CRESCENDO.
 
 Dicembre 2019
     Contributing Author to the IPCC `Special Report on Ocean and Cryosphere in a Changing Climate, Chapter 5: Changing Ocean, Marine Ecosystems, and Dependent Communities`_.
@@ -147,86 +148,86 @@ Scientific Publications in peer-reviewed Journals
 *Abstracts available at*
    http://publications.mommesworld.com
 
-Artioli, Y., Blackford, J.C., **Butenschön, M.**, Holt, J.T., Wakelin, S.L., Thomas, H., Borges, A.V., Allen, J.I., 2012. The carbonate system in the North Sea: Sensitivity and model validation. Journal of Marine Systems 102–104, 1–13. doi:10.1016/j.jmarsys.2012.04.006
+Artioli, Y., Blackford, J.C., **Butenschön, M.**, Holt, J.T., Wakelin, S.L., Thomas, H., Borges, A.V., Allen, J.I., 2012. The carbonate system in the North Sea: Sensitivity and model validation. Journal of Marine Systems 102–104, 1–13. https://doi.org/10.1016/j.jmarsys.2012.04.006
 
-Artioli, Y., Blackford, J.C., Nondal, G., Bellerby, R.G.J., Wakelin, S.L., Holt, J.T., **Butenschön, M.**, Allen, J.I., 2014. Heterogeneity of impacts of high CO2 on the North Western European Shelf. Biogeosciences 11, 601–612. doi:10.5194/bg-11-601-2014
+Artioli, Y., Blackford, J.C., Nondal, G., Bellerby, R.G.J., Wakelin, S.L., Holt, J.T., **Butenschön, M.**, Allen, J.I., 2014. Heterogeneity of impacts of high CO2 on the North Western European Shelf. Biogeosciences 11, 601–612. https://doi.org/10.5194/bg-11-601-2014
 
-Barange, M., Butenschön, M., Yool, A., Beaumont, N., Fernandes, J.A., Martin, A.P., Allen, J.I., 2017. The Cost of Reducing the North Atlantic Ocean Biological Carbon Pump. Front. Mar. Sci. 3. doi:10.3389/fmars.2016.00290
+Barange, M., Butenschön, M., Yool, A., Beaumont, N., Fernandes, J.A., Martin, A.P., Allen, J.I., 2017. The Cost of Reducing the North Atlantic Ocean Biological Carbon Pump. Front. Mar. Sci. 3. https://doi.org/10.3389/fmars.2016.00290
 
-Beaulieu, C., Cole, H., Henson, S., Yool, A., Anderson, T.R., de Mora, L., Buitenhuis, E.T., **Butenschön, M.**, Totterdell, I.J., Allen, J.I., 2016. Marine regime shifts in ocean biogeochemical models: a case study in the Gulf of Alaska. Biogeosciences 13, 4533–4553. doi:10.5194/bg-13-4533-2016
+Beaulieu, C., Cole, H., Henson, S., Yool, A., Anderson, T.R., de Mora, L., Buitenhuis, E.T., **Butenschön, M.**, Totterdell, I.J., Allen, J.I., 2016. Marine regime shifts in ocean biogeochemical models: a case study in the Gulf of Alaska. Biogeosciences 13, 4533–4553. https://doi.org/10.5194/bg-13-4533-2016
 
 **Butenschön, M.**, Lovato, T., Masina, S., Caserini, S., Grosso, M., 2021. Alkalinization scenarios in the Mediterranean Sea for efficient removal of atmospheric CO 2 and the mitigation of ocean acidification. Front. Clim. 3. https://doi.org/10.3389/fclim.2021.614537
 
-**Butenschön, M.**, Clark, J., Aldridge, J.N., Allen, J.I., Artioli, Y., Blackford, J., Bruggeman, J., Cazenave, P., Ciavatta, S., Kay, S., Lessin, G., van Leeuwen, S., van der Molen, J., de Mora, L., Polimene, L., Sailley, S., Stephens, N., Torres, R., 2015. ERSEM 15.06: a generic model for marine biogeochemistry and the ecosystem dynamics of the lower trophic levels. Geosci. Model Dev. 9, 1293–1339. doi:10.5194/gmd-9-1293-2016
+**Butenschön, M.**, Clark, J., Aldridge, J.N., Allen, J.I., Artioli, Y., Blackford, J., Bruggeman, J., Cazenave, P., Ciavatta, S., Kay, S., Lessin, G., van Leeuwen, S., van der Molen, J., de Mora, L., Polimene, L., Sailley, S., Stephens, N., Torres, R., 2015. ERSEM 15.06: a generic model for marine biogeochemistry and the ecosystem dynamics of the lower trophic levels. Geosci. Model Dev. 9, 1293–1339. https://doi.org/10.5194/gmd-9-1293-2016
 
-**Butenschön, M.**, Zavatarelli, M., 2012. A comparison of different versions of the SEEK Filter for assimilation of biogeochemical data in numerical models of marine ecosystem dynamics. Ocean Modelling 54-55, 37 – 54. doi:10.1016/j.ocemod.2012.06.003
+**Butenschön, M.**, Zavatarelli, M., 2012. A comparison of different versions of the SEEK Filter for assimilation of biogeochemical data in numerical models of marine ecosystem dynamics. Ocean Modelling 54-55, 37 – 54. https://doi.org/10.1016/j.ocemod.2012.06.003
 
-**Butenschön, M.**, Zavatarelli, M., Vichi, M., 2012. Sensitivity of a marine coupled physical biogeochemical model to time resolution, integration scheme and time splitting method. Ocean Modelling 52-53, 36 – 53. doi:10.1016/j.ocemod.2012.04.008
+**Butenschön, M.**, Zavatarelli, M., Vichi, M., 2012. Sensitivity of a marine coupled physical biogeochemical model to time resolution, integration scheme and time splitting method. Ocean Modelling 52-53, 36 – 53. https://doi.org/10.1016/j.ocemod.2012.04.008
 
-Christensen, A., **Butenschön, M.**, Gürkan, Z., Allen, I.J., 2013. Towards an integrated forecasting system for fisheries on habitat-bound stocks. Ocean Science 9, 261 – 279. doi:10.5194/os-9-261-2013
+Christensen, A., **Butenschön, M.**, Gürkan, Z., Allen, I.J., 2013. Towards an integrated forecasting system for fisheries on habitat-bound stocks. Ocean Science 9, 261 – 279. https://doi.org/10.5194/os-9-261-2013
 
-Chust, G., Allen, J.I., Bopp, L., Schrum, C., Holt, J., Tsiaras, K., Zavatarelli, M., Chifflet, M., Cannaby, H., Dadou, I., Daewel, U., Wakelin, S.L., Machu, E., Pushpadas, D., **Butenschön, M.**, Artioli, Y., Petihakis, G., Smith, C., Garçon, V., Goubanova, K., Le Vu, B., Fach, B.A., Salihoglu, B., Clementi, E., Irigoien, X., 2014. Biomass changes and trophic amplification of plankton in a warmer ocean. Glob Change Biol 20, 2124–2139. doi:10.1111/gcb.12562
+Chust, G., Allen, J.I., Bopp, L., Schrum, C., Holt, J., Tsiaras, K., Zavatarelli, M., Chifflet, M., Cannaby, H., Dadou, I., Daewel, U., Wakelin, S.L., Machu, E., Pushpadas, D., **Butenschön, M.**, Artioli, Y., Petihakis, G., Smith, C., Garçon, V., Goubanova, K., Le Vu, B., Fach, B.A., Salihoglu, B., Clementi, E., Irigoien, X., 2014. Biomass changes and trophic amplification of plankton in a warmer ocean. Glob Change Biol 20, 2124–2139. https://doi.org/10.1111/gcb.12562
 
-Ciavatta, S., Kay, S., Saux-Picart, S., **Butenschön, M.**, Allen, J.I., 2016. Decadal reanalysis of biogeochemical indicators and fluxes in the North West European shelf-sea ecosystem. J. Geophys. Res. Oceans 121, 1824–1845. doi:10.1002/2015JC011496
+Ciavatta, S., Kay, S., Saux-Picart, S., **Butenschön, M.**, Allen, J.I., 2016. Decadal reanalysis of biogeochemical indicators and fluxes in the North West European shelf-sea ecosystem. J. Geophys. Res. Oceans 121, 1824–1845. https://doi.org/10.1002/2015JC011496
 
-de Mora, L., **Butenschön, M.**, Allen, J.I., 2016. The assessment of a global marine ecosystem model on the basis of emergent properties and ecosystem function: a case study with ERSEM. Geosci. Model Dev. 9, 59–76. doi:10.5194/gmd-9-59-2016
+de Mora, L., **Butenschön, M.**, Allen, J.I., 2016. The assessment of a global marine ecosystem model on the basis of emergent properties and ecosystem function: a case study with ERSEM. Geosci. Model Dev. 9, 59–76. https://doi.org/10.5194/gmd-9-59-2016
 
-de Mora, L., **Butenschön, M.**, Allen, J.I., 2013. How should sparse marine in situ measurements be compared to a continuous model: an example. Geosci. Model Dev. 6, 533–548. doi:10.5194/gmd-6-533-2013
+de Mora, L., **Butenschön, M.**, Allen, J.I., 2013. How should sparse marine in situ measurements be compared to a continuous model: an example. Geosci. Model Dev. 6, 533–548. https://doi.org/10.5194/gmd-6-533-2013
 
-Edwards, K.P., Barciela, R., **Butenschön, M.**, 2012. Validation of the NEMO-ERSEM operational ecosystem model for the North West European Continental Shelf. Ocean Sci. 8, 983–1000. doi:10.5194/os-8-983-2012
+Edwards, K.P., Barciela, R., **Butenschön, M.**, 2012. Validation of the NEMO-ERSEM operational ecosystem model for the North West European Continental Shelf. Ocean Sci. 8, 983–1000. https://doi.org/10.5194/os-8-983-2012
 
-Fernandes, J.A., Rutterford, L., Simpson, S.D., **Butenschön, M.**, Frölicher, T.L., Yool, A., Cheung, W.W.L., Grant, A., 2020. Can we project changes in fish abundance and distribution in response to climate? Global Change Biology 26, 3891–3905. doi:10.1111/gcb.15081
+Fernandes, J.A., Rutterford, L., Simpson, S.D., **Butenschön, M.**, Frölicher, T.L., Yool, A., Cheung, W.W.L., Grant, A., 2020. Can we project changes in fish abundance and distribution in response to climate? Global Change Biology 26, 3891–3905. https://doi.org/10.1111/gcb.15081
 
-Fernandes, J.A., Cheung, W.W.L., Jennings, S., **Butenschön, M.**, de Mora, L., Frölicher, T.L., Barange, M., Grant, A., 2013. Modelling the effects of climate change on the distribution and production of marine fishes: accounting for trophic interactions in a dynamic bioclimate envelope model. Global Change Biology 19, 2596 – 2607. doi:10.1111/gcb.12231
+Fernandes, J.A., Cheung, W.W.L., Jennings, S., **Butenschön, M.**, de Mora, L., Frölicher, T.L., Barange, M., Grant, A., 2013. Modelling the effects of climate change on the distribution and production of marine fishes: accounting for trophic interactions in a dynamic bioclimate envelope model. Global Change Biology 19, 2596 – 2607. https://doi.org/10.1111/gcb.12231
 
-Garmendia, M., Borja, Á., Breton, F., **Butenschön, M.**, Marín, A., Miller, P.I., Morisseau, F., Xu, W., 2015. Challenges and difficulties in assessing the environmental status under the requirements of the Ecosystem Approach in North African countries, illustrated by eutrophication assessment. Environ Monit Assess 187, 1–22. doi:10.1007/s10661-015-4316-x
+Garmendia, M., Borja, Á., Breton, F., **Butenschön, M.**, Marín, A., Miller, P.I., Morisseau, F., Xu, W., 2015. Challenges and difficulties in assessing the environmental status under the requirements of the Ecosystem Approach in North African countries, illustrated by eutrophication assessment. Environ Monit Assess 187, 1–22. https://doi.org/10.1007/s10661-015-4316-x
 
-Gehlen, M., Barciela, R., Bertino, L., Brasseur, P., **Butenschön, M.**, Chai, F., Crise, A., Drillet, Y., Ford, D., Lavoie, D., Lehodey, P., Perruche, C., Samuelsen, A., Simon, E., 2015. Building the capacity for forecasting marine biogeochemistry and ecosystems: recent advances and future developments. Journal of Operational Oceanography 8, s168–s187. doi:10.1080/1755876X.2015.1022350
+Gehlen, M., Barciela, R., Bertino, L., Brasseur, P., **Butenschön, M.**, Chai, F., Crise, A., Drillet, Y., Ford, D., Lavoie, D., Lehodey, P., Perruche, C., Samuelsen, A., Simon, E., 2015. Building the capacity for forecasting marine biogeochemistry and ecosystems: recent advances and future developments. Journal of Operational Oceanography 8, s168–s187. https://doi.org/10.1080/1755876X.2015.1022350
 
-Groeneveld, R.A., Bosello, F., Butenschön, M., Elliott, M., Peck, M.A., Pinnegar, J.K., 2018. Defining scenarios of future vectors of change in marine life and associated economic sectors. Estuarine, Coastal and Shelf Science, Vectors of change in the marine environment 201, 164–171. doi:10.1016/j.ecss.2015.10.020
+Groeneveld, R.A., Bosello, F., Butenschön, M., Elliott, M., Peck, M.A., Pinnegar, J.K., 2018. Defining scenarios of future vectors of change in marine life and associated economic sectors. Estuarine, Coastal and Shelf Science, Vectors of change in the marine environment 201, 164–171. https://doi.org/10.1016/j.ecss.2015.10.020
 
-Holt, J., **Butenschön, M.**, Wakelin, S.L., Artioli, Y., Allen, J.I., 2012. Oceanic controls on the primary production of the northwest European continental shelf: model experiments under recent past conditions and a potential future scenario. Biogeosciences 9, 97–117. doi:10.5194/bg-9-97-2012
+Holt, J., **Butenschön, M.**, Wakelin, S.L., Artioli, Y., Allen, J.I., 2012. Oceanic controls on the primary production of the northwest European continental shelf: model experiments under recent past conditions and a potential future scenario. Biogeosciences 9, 97–117. https://doi.org/10.5194/bg-9-97-2012
 
-Holt, J., Icarus Allen, J., Anderson, T.R., Brewin, R., **Butenschön, M.**, Harle, J., Huse, G., Lehodey, P., Lindemann, C., Memery, L., Salihoglu, B., Senina, I., Yool, A., 2014. Challenges in integrative approaches to modelling the marine ecosystems of the North Atlantic: Physics to fish and coasts to ocean. Progress in Oceanography, North Atlantic Ecosystems, the role of climate and anthropogenic forcing on their structure and function 129, Part B, 285–313. doi:10.1016/j.pocean.2014.04.024
+Holt, J., Icarus Allen, J., Anderson, T.R., Brewin, R., **Butenschön, M.**, Harle, J., Huse, G., Lehodey, P., Lindemann, C., Memery, L., Salihoglu, B., Senina, I., Yool, A., 2014. Challenges in integrative approaches to modelling the marine ecosystems of the North Atlantic: Physics to fish and coasts to ocean. Progress in Oceanography, North Atlantic Ecosystems, the role of climate and anthropogenic forcing on their structure and function 129, Part B, 285–313. https://doi.org/10.1016/j.pocean.2014.04.024
 
-Holt, J., Schrum, C., Cannaby, H., Daewel, U., Allen, I., Artioli, Y., Bopp, L., **Butenschon, M.**, Fach, B.A., Harle, J., Pushpadas, D., Salihoglu, B., Wakelin, S., 2016. Potential impacts of climate change on the primary production of regional seas: A comparative analysis of five European seas. Progress in Oceanography 140, 91–115. doi:10.1016/j.pocean.2015.11.004
+Holt, J., Schrum, C., Cannaby, H., Daewel, U., Allen, I., Artioli, Y., Bopp, L., **Butenschon, M.**, Fach, B.A., Harle, J., Pushpadas, D., Salihoglu, B., Wakelin, S., 2016. Potential impacts of climate change on the primary production of regional seas: A comparative analysis of five European seas. Progress in Oceanography 140, 91–115. https://doi.org/10.1016/j.pocean.2015.11.004
 
-Kay, S., Butenschön, M., 2018. Projections of change in key ecosystem indicators for planning and management of marine protected areas: An example study for European seas. Estuarine, Coastal and Shelf Science, Vectors of change in the marine environment 201, 172–184. doi:10.1016/j.ecss.2016.03.003
+Kay, S., Butenschön, M., 2018. Projections of change in key ecosystem indicators for planning and management of marine protected areas: An example study for European seas. Estuarine, Coastal and Shelf Science, Vectors of change in the marine environment 201, 172–184. https://doi.org/10.1016/j.ecss.2016.03.003
 
 Kwiatkowski, L., Yool, A., Allen, J.I., Anderson, T.R., Barciela, R., Buitenhuis, E.T., **Butenschön, M.**, Enright, C., Halloran, P.R., Le Quéré, C., de Mora, L., Racault, M.-F., Sinha, B., Totterdell, I.J., Cox, P.M., 2014b. iMarNet: an ocean biogeochemistry model intercomparison project within a common physical ocean modelling framework. Biogeosciences 11, 7291–7304. doi:10.5194/bg-11-7291-2014
-Lewis, H.W., Castillo Sanchez, J.M., Graham, J., Saulter, A., Bornemann, J., Arnold, A., Fallmann, J., Harris, C., Pearson, D., Ramsdale, S., Martínez-de la Torre, A., Bricheno, L., Blyth, E., Bell, V.A., Davies, H., Marthews, T.R., O’Neill, C., Rumbold, H., O’Dea, E., Brereton, A., Guihou, K., Hines, A., Butenschon, M., Dadson, S.J., Palmer, T., Holt, J., Reynard, N., Best, M., Edwards, J., Siddorn, J., 2018. The UKC2 regional coupled environmental prediction system. Geosci. Model Dev. 11, 1–42. doi:10.5194/gmd-11-1-2018
+Lewis, H.W., Castillo Sanchez, J.M., Graham, J., Saulter, A., Bornemann, J., Arnold, A., Fallmann, J., Harris, C., Pearson, D., Ramsdale, S., Martínez-de la Torre, A., Bricheno, L., Blyth, E., Bell, V.A., Davies, H., Marthews, T.R., O’Neill, C., Rumbold, H., O’Dea, E., Brereton, A., Guihou, K., Hines, A., Butenschon, M., Dadson, S.J., Palmer, T., Holt, J., Reynard, N., Best, M., Edwards, J., Siddorn, J., 2018. The UKC2 regional coupled environmental prediction system. Geosci. Model Dev. 11, 1–42. https://doi.org/10.5194/gmd-11-1-2018
 
-Lessin, G., Polimene, L., Artioli, Y., Butenschön, M., Clark, D.R., Brown, I., Rees, A.P., n.d. Modeling the seasonality and controls of nitrous oxide emissions on the northwest European continental shelf. Journal of Geophysical Research: Biogeosciences n/a, e2019JG005613. doi:10.1029/2019JG005613
+Lessin, G., Polimene, L., Artioli, Y., Butenschön, M., Clark, D.R., Brown, I., Rees, A.P., n.d. Modeling the seasonality and controls of nitrous oxide emissions on the northwest European continental shelf. Journal of Geophysical Research: Biogeosciences n/a, e2019JG005613. https://doi.org/10.1029/2019JG005613
 
-Litt, E.J., Hardman-Mountford, N.J., Blackford, J.C., Mitchelson-Jacob, G., Goodman, A., Moore, G.F., Cummings, D.G., **Butenschön, M.**, 2010. Biological control of pCO2 at station L4 in the Western English Channel over 3 years. J. Plankton Res. 32, 621–629. doi:10.1093/plankt/fbp133
+Litt, E.J., Hardman-Mountford, N.J., Blackford, J.C., Mitchelson-Jacob, G., Goodman, A., Moore, G.F., Cummings, D.G., **Butenschön, M.**, 2010. Biological control of pCO2 at station L4 in the Western English Channel over 3 years. J. Plankton Res. 32, 621–629. https://doi.org/10.1093/plankt/fbp133
 
-Maar, M., Butenschön, M., Daewel, U., Eggert, A., Fan, W., Hjøllo, S.S., Hufnagl, M., Huret, M., Ji, R., Lacroix, G., Peck, M.A., Radtke, H., Sailley, S., Sinerchia, M., Skogen, M.D., Travers-Trolet, M., Troost, T.A., van de Wolfshaar, K., 2018. Responses of summer phytoplankton biomass to changes in top-down forcing: Insights from comparative modelling. Ecological Modelling 376, 54–67. doi:10.1016/j.ecolmodel.2018.03.003
+Maar, M., Butenschön, M., Daewel, U., Eggert, A., Fan, W., Hjøllo, S.S., Hufnagl, M., Huret, M., Ji, R., Lacroix, G., Peck, M.A., Radtke, H., Sailley, S., Sinerchia, M., Skogen, M.D., Travers-Trolet, M., Troost, T.A., van de Wolfshaar, K., 2018. Responses of summer phytoplankton biomass to changes in top-down forcing: Insights from comparative modelling. Ecological Modelling 376, 54–67. https://doi.org/10.1016/j.ecolmodel.2018.03.003
 
-Marras, S., Cucco, A., Antognarelli, F., Azzurro, E., Milazzo, M., Bariche, M., **Butenschön, M.**, Kay, S., Bitetto, M.D., Quattrocchi, G., Sinerchia, M., Domenici, P., 2015. Predicting future thermal habitat suitability of competing native and invasive fish species: from metabolic scope to oceanographic modelling. Conserv Physiol 3, cou059. doi:10.1093/conphys/cou059
+Marras, S., Cucco, A., Antognarelli, F., Azzurro, E., Milazzo, M., Bariche, M., **Butenschön, M.**, Kay, S., Bitetto, M.D., Quattrocchi, G., Sinerchia, M., Domenici, P., 2015. Predicting future thermal habitat suitability of competing native and invasive fish species: from metabolic scope to oceanographic modelling. Conserv Physiol 3, cou059. https://doi.org/10.1093/conphys/cou059
 
-Mullon, C., Steinmetz, F., Merino, G., Fernandes, J.A., Cheung, W.W.L., **Butenschön, M.**, Barange, M., 2016. Quantitative pathways for Northeast Atlantic fisheries based on climate, ecological–economic and governance modelling scenarios. Ecological Modelling 320, 273–291. doi:10.1016/j.ecolmodel.2015.09.027
+Mullon, C., Steinmetz, F., Merino, G., Fernandes, J.A., Cheung, W.W.L., **Butenschön, M.**, Barange, M., 2016. Quantitative pathways for Northeast Atlantic fisheries based on climate, ecological–economic and governance modelling scenarios. Ecological Modelling 320, 273–291. https://doi.org/10.1016/j.ecolmodel.2015.09.027
 
-Polimene, L., Archer, S.D., **Butenschön, M.**, Allen, J.I., 2012a. A mechanistic explanation of the Sargasso Sea DMS “summer paradox.” Biogeochemistry 110, 243 – 255. doi:10.1007/s10533-011-9674-z
+Polimene, L., Archer, S.D., **Butenschön, M.**, Allen, J.I., 2012a. A mechanistic explanation of the Sargasso Sea DMS “summer paradox.” Biogeochemistry 110, 243 – 255. https://doi.org/10.1007/s10533-011-9674-z
 
-Polimene, L., Brunet, C., Allen, J.I., **Butenschön, M.**, White, D.A., Llewellyn, C.A., 2012b. Modelling xanthophyll photoprotective activity in phytoplankton. Journal of Plankton Research 34, 196 – 207. doi:10.1093/plankt/fbr102
+Polimene, L., Brunet, C., Allen, J.I., **Butenschön, M.**, White, D.A., Llewellyn, C.A., 2012b. Modelling xanthophyll photoprotective activity in phytoplankton. Journal of Plankton Research 34, 196 – 207. https://doi.org/10.1093/plankt/fbr102
 
-Polimene, L., Brunet, C., **Butenschön, M.**, Martinez-Vicente, V., Widdicombe, C., Torres, R., Allen, J.I., 2014. Modelling a light-driven phytoplankton succession. J. Plankton Res. 36, 214–229. doi:10.1093/plankt/fbt086
+Polimene, L., Brunet, C., **Butenschön, M.**, Martinez-Vicente, V., Widdicombe, C., Torres, R., Allen, J.I., 2014. Modelling a light-driven phytoplankton succession. J. Plankton Res. 36, 214–229. https://doi.org/10.1093/plankt/fbt086
 
-Peck, M.A., Arvanitidis, C., Butenschön, M., Canu, D.M., Chatzinikolaou, E., Cucco, A., Domenici, P., Fernandes, J.A., Gasche, L., Huebert, K.B., Hufnagl, M., Jones, M.C., Kempf, A., Keyl, F., Maar, M., Mahévas, S., Marchal, P., Nicolas, D., Pinnegar, J.K., Rivot, E., Rochette, S., Sell, A.F., Sinerchia, M., Solidoro, C., Somerfield, P.J., Teal, L.R., Travers-Trolet, M., van de Wolfshaar, K.E., 2018. Projecting changes in the distribution and productivity of living marine resources: A critical review of the suite of modelling approaches used in the large European project VECTORS. Estuarine, Coastal and Shelf Science, Vectors of change in the marine environment 201, 40–55. doi:10.1016/j.ecss.2016.05.019
+Peck, M.A., Arvanitidis, C., Butenschön, M., Canu, D.M., Chatzinikolaou, E., Cucco, A., Domenici, P., Fernandes, J.A., Gasche, L., Huebert, K.B., Hufnagl, M., Jones, M.C., Kempf, A., Keyl, F., Maar, M., Mahévas, S., Marchal, P., Nicolas, D., Pinnegar, J.K., Rivot, E., Rochette, S., Sell, A.F., Sinerchia, M., Solidoro, C., Somerfield, P.J., Teal, L.R., Travers-Trolet, M., van de Wolfshaar, K.E., 2018. Projecting changes in the distribution and productivity of living marine resources: A critical review of the suite of modelling approaches used in the large European project VECTORS. Estuarine, Coastal and Shelf Science, Vectors of change in the marine environment 201, 40–55. https://doi.org/10.1016/j.ecss.2016.05.019
 
-Queirós, A.M., Bruggeman, J., Stephens, N., Artioli, Y., **Butenschön, M.**, Blackford, J.C., Widdicombe, S., Allen, J.I., Somerfield, P.J., 2015. Placing biodiversity in ecosystem models without getting lost in translation. Journal of Sea Research, Protecting Marine Biodiversity to Preserve Ecosystem Functioning: a Tribute to Carlo Heip 98, 83–90. doi:10.1016/j.seares.2014.10.004
+Queirós, A.M., Bruggeman, J., Stephens, N., Artioli, Y., **Butenschön, M.**, Blackford, J.C., Widdicombe, S., Allen, J.I., Somerfield, P.J., 2015. Placing biodiversity in ecosystem models without getting lost in translation. Journal of Sea Research, Protecting Marine Biodiversity to Preserve Ecosystem Functioning: a Tribute to Carlo Heip 98, 83–90. https://doi.org/10.1016/j.seares.2014.10.004
 
-Saux Picart, S., Allen, J.I., **Butenschön, M.**, Artioli, Y., Mora, L. de, Wakelin, S., Holt, J., 2014. What can ecosystem models tell us about the risk of eutrophication in the North Sea? Climatic Change 132, 111–125. doi:10.1007/s10584-014-1071-x
+Saux Picart, S., Allen, J.I., **Butenschön, M.**, Artioli, Y., Mora, L. de, Wakelin, S., Holt, J., 2014. What can ecosystem models tell us about the risk of eutrophication in the North Sea? Climatic Change 132, 111–125. https://doi.org/10.1007/s10584-014-1071-x
 
-Saux Picart, S., **Butenschön, M.**, Shutler, J.D., 2012. Wavelet-based spatial comparison technique for analysing and evaluating two-dimensional geophysical model fields. Geosci. Model Dev. 5, 223–230. doi:10.5194/gmd-5-223-2012
+Saux Picart, S., **Butenschön, M.**, Shutler, J.D., 2012. Wavelet-based spatial comparison technique for analysing and evaluating two-dimensional geophysical model fields. Geosci. Model Dev. 5, 223–230. https://doi.org/10.5194/gmd-5-223-2012
 
-Villarino, E., Chust, G., Licandro, P., **Butenschön, M.**, Ibaibarriaga, L., Larrañaga, A., Irigoien, X., 2015. Modelling the future biogeography of North Atlantic zooplankton communities in response to climate change. Marine Ecology Progress Series 531, 121–142. doi:10.3354/meps11299
+Villarino, E., Chust, G., Licandro, P., **Butenschön, M.**, Ibaibarriaga, L., Larrañaga, A., Irigoien, X., 2015. Modelling the future biogeography of North Atlantic zooplankton communities in response to climate change. Marine Ecology Progress Series 531, 121–142. https://doi.org/10.3354/meps11299
 
-Wakelin, S.L., Artioli, Y., Holt, J.T., **Butenschön, M.**, Blackford, J., 2020. Controls on near-bed oxygen concentration on the Northwest European Continental Shelf under a potential future climate scenario. Progress in Oceanography 102400. doi:10.1016/j.pocean.2020.102400
+Wakelin, S.L., Artioli, Y., Holt, J.T., **Butenschön, M.**, Blackford, J., 2020. Controls on near-bed oxygen concentration on the Northwest European Continental Shelf under a potential future climate scenario. Progress in Oceanography 102400. https://doi.org/10.1016/j.pocean.2020.102400
 
-Wakelin, S.L., Artioli, Y., **Butenschön, M.**, Allen, J.I., Holt, J.T., 2015. Modelling the combined impacts of climate change and direct anthropogenic drivers on the ecosystem of the northwest European continental shelf. Journal of Marine Systems 152, 51–63. doi:10.1016/j.jmarsys.2015.07.006
+Wakelin, S.L., Artioli, Y., **Butenschön, M.**, Allen, J.I., Holt, J.T., 2015. Modelling the combined impacts of climate change and direct anthropogenic drivers on the ecosystem of the northwest European continental shelf. Journal of Marine Systems 152, 51–63. https://doi.org/10.1016/j.jmarsys.2015.07.006
 
-Wakelin, S.L., Holt, J.T., Blackford, J.C., Allen, J.I., **Butenschön, M.**, Artioli, Y., 2012. Modeling the carbon fluxes of the northwest European continental shelf: Validation and budgets. J. Geophys. Res. 117, C05020 –.
+Wakelin, S.L., Holt, J.T., Blackford, J.C., Allen, J.I., **Butenschön, M.**, Artioli, Y., 2012. Modeling the carbon fluxes of the northwest European continental shelf: Validation and budgets. J. Geophys. Res. 117, C05020-. https://doi.org/10.1029/2011JC007402
 
 
 Other Publications:
