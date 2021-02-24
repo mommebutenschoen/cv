@@ -2,7 +2,7 @@
 Momme Butenschön (PhD, MSc)
 ===========================
 
-Deputy Director of the Ocean Modeling and Data Assimilation Division and Lead Scientist of the Earth System Modelling Research Unit at the `Euro-Mediterranean Center on Climate Change (CMCC)`_
+Deputy Director of the Ocean Modeling and Data Assimilation Division and Lead Scientist of the Earth System Modelling Research Unit at the `Centro Euro-Mediterraneo sui Cambiamenti Climatici (CMCC)`_
 
 Centro Euro-Mediterraneo sui Cambiamenti Climatici (CMCC), Viale B. Pichat, 6/2, Bologna (BO), Italy
 
@@ -248,7 +248,7 @@ Bindoff, N.L., Cheung, W.W.L., Kairo, J.G., Aristegui, J., Guinder, V.A., Hallbe
 
 Cheung, W., Bruggeman, J., **Butenschön, M.**, 2018. Chapter 4: Projected changes in global and national potential marine fisheries catch under climate change scenarios in the twenty-first century, in: Barange, M., Bahri, T., Beveridge, M.C.M., Cochrane, K.L., Funge-Smith, S., Poulain, F. (Eds.) Impacts of Climate Change on Fisheries and Aquaculture: Synthesis of Current Knowledge, Adaptation and Mitigation Options., FAO Fisheries Technical Paper 627 (2018), 63-86. FAO, Rome, Italy. ISSN 2070-7010 http://www.fao.org/3/I9705EN/i9705en.pdf
 
-.. _Euro-Mediterranean Center on Climate Change (CMCC): http://www.cmcc.it
+.. _Centro Euro-Mediterraneo sui Cambiamenti Climatici (CMCC): http://www.cmcc.it
 .. _Biogoechemical Flux Model (BFM): http://bfm-community.eu/
 .. _ERSEM: http://www.pml.ac.uk/Modelling/Models/ERSEM
 .. _Plymouth Marine Laboratory: http://www.pml.ac.uk
