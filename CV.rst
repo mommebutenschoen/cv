@@ -110,8 +110,8 @@ Technische Universität Berlin, Kungliga Tekniska Högskolan Stockholm, 2002
 Teaching and Supervision
 ------------------------
 
-- Contract lecturer at the Università Ca'Foscari di Venezia in the PhD program "Science and Management of Climate Change" (since 2018)
-- Supervision of a PhD student in the program "Science and Management of Climate Change"
+- Contract lecturer at the Università Ca'Foscari di Venezia in the PhD program "Science and Management of Climate Change" (2018-2020)
+- Supervision of PhD and MSc students at the univeristies of Venice and Bologna
 - Line manager of three permanent scientists at the Plymouth Marine Laboratory. (2011-2017)
 - Supervision of two placement students (1 year full time placement in the 3rd year of the undergraduate program, 2008-2010).
 - Supervision of a scientific trainee (6 month) leading into a permanent position at Scientist level. (2010-2011)
@@ -155,6 +155,8 @@ Barange, M., Butenschön, M., Yool, A., Beaumont, N., Fernandes, J.A., Martin, A
 
 Beaulieu, C., Cole, H., Henson, S., Yool, A., Anderson, T.R., de Mora, L., Buitenhuis, E.T., **Butenschön, M.**, Totterdell, I.J., Allen, J.I., 2016. Marine regime shifts in ocean biogeochemical models: a case study in the Gulf of Alaska. Biogeosciences 13, 4533–4553. doi:10.5194/bg-13-4533-2016
 
+**Butenschön, M.**, Lovato, T., Masina, S., Caserini, S., Grosso, M., 2021. Alkalinization scenarios in the Mediterranean Sea for efficient removal of atmospheric CO 2 and the mitigation of ocean acidification. Front. Clim. 3. https://doi.org/10.3389/fclim.2021.614537
+
 **Butenschön, M.**, Clark, J., Aldridge, J.N., Allen, J.I., Artioli, Y., Blackford, J., Bruggeman, J., Cazenave, P., Ciavatta, S., Kay, S., Lessin, G., van Leeuwen, S., van der Molen, J., de Mora, L., Polimene, L., Sailley, S., Stephens, N., Torres, R., 2015. ERSEM 15.06: a generic model for marine biogeochemistry and the ecosystem dynamics of the lower trophic levels. Geosci. Model Dev. 9, 1293–1339. doi:10.5194/gmd-9-1293-2016
 
 **Butenschön, M.**, Zavatarelli, M., 2012. A comparison of different versions of the SEEK Filter for assimilation of biogeochemical data in numerical models of marine ecosystem dynamics. Ocean Modelling 54-55, 37 – 54. doi:10.1016/j.ocemod.2012.06.003
@@ -172,6 +174,8 @@ de Mora, L., **Butenschön, M.**, Allen, J.I., 2016. The assessment of a global 
 de Mora, L., **Butenschön, M.**, Allen, J.I., 2013. How should sparse marine in situ measurements be compared to a continuous model: an example. Geosci. Model Dev. 6, 533–548. doi:10.5194/gmd-6-533-2013
 
 Edwards, K.P., Barciela, R., **Butenschön, M.**, 2012. Validation of the NEMO-ERSEM operational ecosystem model for the North West European Continental Shelf. Ocean Sci. 8, 983–1000. doi:10.5194/os-8-983-2012
+
+Fernandes, J.A., Rutterford, L., Simpson, S.D., **Butenschön, M.**, Frölicher, T.L., Yool, A., Cheung, W.W.L., Grant, A., 2020. Can we project changes in fish abundance and distribution in response to climate? Global Change Biology 26, 3891–3905. doi:10.1111/gcb.15081
 
 Fernandes, J.A., Cheung, W.W.L., Jennings, S., **Butenschön, M.**, de Mora, L., Frölicher, T.L., Barange, M., Grant, A., 2013. Modelling the effects of climate change on the distribution and production of marine fishes: accounting for trophic interactions in a dynamic bioclimate envelope model. Global Change Biology 19, 2596 – 2607. doi:10.1111/gcb.12231
 
@@ -191,6 +195,8 @@ Kay, S., Butenschön, M., 2018. Projections of change in key ecosystem indicator
 
 Kwiatkowski, L., Yool, A., Allen, J.I., Anderson, T.R., Barciela, R., Buitenhuis, E.T., **Butenschön, M.**, Enright, C., Halloran, P.R., Le Quéré, C., de Mora, L., Racault, M.-F., Sinha, B., Totterdell, I.J., Cox, P.M., 2014b. iMarNet: an ocean biogeochemistry model intercomparison project within a common physical ocean modelling framework. Biogeosciences 11, 7291–7304. doi:10.5194/bg-11-7291-2014
 Lewis, H.W., Castillo Sanchez, J.M., Graham, J., Saulter, A., Bornemann, J., Arnold, A., Fallmann, J., Harris, C., Pearson, D., Ramsdale, S., Martínez-de la Torre, A., Bricheno, L., Blyth, E., Bell, V.A., Davies, H., Marthews, T.R., O’Neill, C., Rumbold, H., O’Dea, E., Brereton, A., Guihou, K., Hines, A., Butenschon, M., Dadson, S.J., Palmer, T., Holt, J., Reynard, N., Best, M., Edwards, J., Siddorn, J., 2018. The UKC2 regional coupled environmental prediction system. Geosci. Model Dev. 11, 1–42. doi:10.5194/gmd-11-1-2018
+
+Lessin, G., Polimene, L., Artioli, Y., Butenschön, M., Clark, D.R., Brown, I., Rees, A.P., n.d. Modeling the seasonality and controls of nitrous oxide emissions on the northwest European continental shelf. Journal of Geophysical Research: Biogeosciences n/a, e2019JG005613. doi:10.1029/2019JG005613
 
 Litt, E.J., Hardman-Mountford, N.J., Blackford, J.C., Mitchelson-Jacob, G., Goodman, A., Moore, G.F., Cummings, D.G., **Butenschön, M.**, 2010. Biological control of pCO2 at station L4 in the Western English Channel over 3 years. J. Plankton Res. 32, 621–629. doi:10.1093/plankt/fbp133
 
@@ -215,6 +221,8 @@ Saux Picart, S., Allen, J.I., **Butenschön, M.**, Artioli, Y., Mora, L. de, Wak
 Saux Picart, S., **Butenschön, M.**, Shutler, J.D., 2012. Wavelet-based spatial comparison technique for analysing and evaluating two-dimensional geophysical model fields. Geosci. Model Dev. 5, 223–230. doi:10.5194/gmd-5-223-2012
 
 Villarino, E., Chust, G., Licandro, P., **Butenschön, M.**, Ibaibarriaga, L., Larrañaga, A., Irigoien, X., 2015. Modelling the future biogeography of North Atlantic zooplankton communities in response to climate change. Marine Ecology Progress Series 531, 121–142. doi:10.3354/meps11299
+
+Wakelin, S.L., Artioli, Y., Holt, J.T., **Butenschön, M.**, Blackford, J., 2020. Controls on near-bed oxygen concentration on the Northwest European Continental Shelf under a potential future climate scenario. Progress in Oceanography 102400. doi:10.1016/j.pocean.2020.102400
 
 Wakelin, S.L., Artioli, Y., **Butenschön, M.**, Allen, J.I., Holt, J.T., 2015. Modelling the combined impacts of climate change and direct anthropogenic drivers on the ecosystem of the northwest European continental shelf. Journal of Marine Systems 152, 51–63. doi:10.1016/j.jmarsys.2015.07.006
 
