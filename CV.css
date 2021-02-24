@@ -188,6 +188,7 @@ em > em /* Emphasis within emphasis: *This is all *emphasized* except that* */
 
 strong /* Markdown **strong** or __strong__ */
     {
+      font-weight: bolder;
     }
 
 /* ---- Links (anchors) ---- */
