@@ -174,6 +174,8 @@ de Mora, L., **Butenschön, M.**, Allen, J.I., 2016. The assessment of a global 
 
 de Mora, L., **Butenschön, M.**, Allen, J.I., 2013. How should sparse marine in situ measurements be compared to a continuous model: an example. Geosci. Model Dev. 6, 533–548. https://doi.org/10.5194/gmd-6-533-2013
 
+Drenkard, E.J., Stock, C., Ross, A.C., Dixon, K.W., Adcroft, A., Alexander, M., Balaji, V., Bograd, S.J., **Butenschön, M.**, Cheng, W., Curchitser, E., di Lorenzo, E., Dussin, R., Haynie, A.C., Harrison, M., Hermann, A., Hollowed, A., Holsman, K., Holt, J., Jacox, M.G., Jang, C.J., Kearney, K.A., Muhling, B.A., Buil, M.P., Saba, V., Sandø, A.B., Tommasi, D., Wang, M., 2021. Next-generation regional ocean projections for living marine resource management in a changing climate. ICES Journal of Marine Science. https://doi.org/10.1093/icesjms/fsab100
+
 Edwards, K.P., Barciela, R., **Butenschön, M.**, 2012. Validation of the NEMO-ERSEM operational ecosystem model for the North West European Continental Shelf. Ocean Sci. 8, 983–1000. https://doi.org/10.5194/os-8-983-2012
 
 Fernandes, J.A., Rutterford, L., Simpson, S.D., **Butenschön, M.**, Frölicher, T.L., Yool, A., Cheung, W.W.L., Grant, A., 2020. Can we project changes in fish abundance and distribution in response to climate? Global Change Biology 26, 3891–3905. https://doi.org/10.1111/gcb.15081
