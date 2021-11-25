@@ -2,7 +2,7 @@
 Momme Butenschön (PhD, MSc)
 ===========================
 
-Lead Scientist of the Earth System Modelling Research Unit at the `Euro-Mediterranean Center on Climate Change (CMCC)`_
+Deputy Director of the Ocean Modellling and Data Assimilation Division and Lead Scientist of the Earth System Modelling Research Unit at the `Euro-Mediterranean Center on Climate Change (CMCC)`_
 
 Euro-Mediterranean Center on Climate Change (CMCC), Viale B. Pichat, 6/2, Bologna (BO), Italy
 
@@ -153,6 +153,8 @@ Beaulieu, C., Cole, H., Henson, S., Yool, A., Anderson, T.R., de Mora, L., Buite
 
 **Butenschön, M.**, Clark, J., Aldridge, J.N., Allen, J.I., Artioli, Y., Blackford, J., Bruggeman, J., Cazenave, P., Ciavatta, S., Kay, S., Lessin, G., van Leeuwen, S., van der Molen, J., de Mora, L., Polimene, L., Sailley, S., Stephens, N., Torres, R., 2015. ERSEM 15.06: a generic model for marine biogeochemistry and the ecosystem dynamics of the lower trophic levels. Geosci. Model Dev. 9, 1293–1339. doi:10.5194/gmd-9-1293-2016
 
+**Butenschön, M.**, Lovato, T., Masina, S., Caserini, S., Grosso, M., 2021. Alkalinization Scenarios in the Mediterranean Sea for Efficient Removal of Atmospheric CO2 and the Mitigation of Ocean Acidification. Front. Clim. 3. https://doi.org/10.3389/fclim.2021.614537
+
 **Butenschön, M.**, Zavatarelli, M., 2012. A comparison of different versions of the SEEK Filter for assimilation of biogeochemical data in numerical models of marine ecosystem dynamics. Ocean Modelling 54-55, 37 – 54. doi:10.1016/j.ocemod.2012.06.003
 
 **Butenschön, M.**, Zavatarelli, M., Vichi, M., 2012. Sensitivity of a marine coupled physical biogeochemical model to time resolution, integration scheme and time splitting method. Ocean Modelling 52-53, 36 – 53. doi:10.1016/j.ocemod.2012.04.008
@@ -166,6 +168,8 @@ Ciavatta, S., Kay, S., Saux-Picart, S., **Butenschön, M.**, Allen, J.I., 2016. 
 de Mora, L., **Butenschön, M.**, Allen, J.I., 2016. The assessment of a global marine ecosystem model on the basis of emergent properties and ecosystem function: a case study with ERSEM. Geosci. Model Dev. 9, 59–76. doi:10.5194/gmd-9-59-2016
 
 de Mora, L., **Butenschön, M.**, Allen, J.I., 2013. How should sparse marine in situ measurements be compared to a continuous model: an example. Geosci. Model Dev. 6, 533–548. doi:10.5194/gmd-6-533-2013
+
+Drenkard, E.J., Stock, C., Ross, A.C., Dixon, K.W., Adcroft, A., Alexander, M., Balaji, V., Bograd, S.J.,**Butenschön, M.**, Cheng, W., Curchitser, E., di Lorenzo, E., Dussin, R., Haynie, A.C., Harrison, M., Hermann, A., Hollowed, A., Holsman, K., Holt, J., Jacox, M.G., Jang, C.J., Kearney, K.A., Muhling, B.A., Buil, M.P., Saba, V., Sandø, A.B., Tommasi, D., Wang, M., 2021. Next-generation regional ocean projections for living marine resource management in a changing climate. ICES Journal of Marine Science. doi:10.1093/icesjms/fsab100
 
 Edwards, K.P., Barciela, R., **Butenschön, M.**, 2012. Validation of the NEMO-ERSEM operational ecosystem model for the North West European Continental Shelf. Ocean Sci. 8, 983–1000. doi:10.5194/os-8-983-2012
 
@@ -209,6 +213,8 @@ Queirós, A.M., Bruggeman, J., Stephens, N., Artioli, Y., **Butenschön, M.**, B
 Saux Picart, S., Allen, J.I., **Butenschön, M.**, Artioli, Y., Mora, L. de, Wakelin, S., Holt, J., 2014. What can ecosystem models tell us about the risk of eutrophication in the North Sea? Climatic Change 132, 111–125. doi:10.1007/s10584-014-1071-x
 
 Saux Picart, S., **Butenschön, M.**, Shutler, J.D., 2012. Wavelet-based spatial comparison technique for analysing and evaluating two-dimensional geophysical model fields. Geosci. Model Dev. 5, 223–230. doi:10.5194/gmd-5-223-2012
+
+Tagliabue, A., Kwiatkowski, L., Bopp, L., **Butenschön, M.**, Cheung, W., Lengaigne, M., Vialard, J., 2021. Persistent Uncertainties in Ocean Net Primary Production Climate Change Projections at Regional Scales Raise Challenges for Assessing Impacts on Ecosystem Services. Frontiers in Climate 3, 149. doi:10.3389/fclim.2021.738224
 
 Villarino, E., Chust, G., Licandro, P., **Butenschön, M.**, Ibaibarriaga, L., Larrañaga, A., Irigoien, X., 2015. Modelling the future biogeography of North Atlantic zooplankton communities in response to climate change. Marine Ecology Progress Series 531, 121–142. doi:10.3354/meps11299
 
