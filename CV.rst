@@ -147,10 +147,11 @@ Spanish
 Extracurricular activities
 --------------------------
 
-- president of the association `A Piedi Nudi`_, Bologna, an interdisciplinar association promoting information and education for psico-fisical and cultural well-being and prevention
-- instructor of ultimate frisbee and health & fitness
-- cycling, tennis, running, swimming, sailing
-- playing piano and guitar
+- President of the association `A Piedi Nudi`_, Bologna, an interdisciplinar association promoting information and education for psico-fisical and cultural well-being and prevention
+- Instructor of ultimate frisbee and health & fitness
+- Cycling, tennis, running, swimming, sailing
+- Playing piano and guitar
+
 
 Scientific Publications in peer-reviewed Journals
 -------------------------------------------------
