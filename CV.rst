@@ -26,7 +26,10 @@ since September 2017
     coordinating the development of the coupled Earth System Model of the institute and the `Biogoechemical Flux Model (BFM)`_ for the Marine Ecosystem.
     Studies on impacts of anthropogenic and climate change on the marine ecosystem and ecosystem services,
     natural variability and model uncertainty.
-    Heavily involved in various Euroepean research projects, such as FutureMARES, CE2COAST, CRESCENDO.
+    Heavily involved in various Euroepean research projects, such as RESCUE, CRiceS, FutureMARES, ACTNOW, CE2COAST, NECCTON, CRESCENDO.
+
+Since 2020
+    Biogeochemical Flux Model System Team Coordinator
 
 Dicembre 2019
     Contributing Author to the IPCC `Special Report on Ocean and Cryosphere in a Changing Climate, Chapter 5: Changing Ocean, Marine Ecosystems, and Dependent Communities`_.
@@ -210,6 +213,8 @@ Maar, M., **Butenschön, M.**, Daewel, U., Eggert, A., Fan, W., Hjøllo, S.S., H
 Marras, S., Cucco, A., Antognarelli, F., Azzurro, E., Milazzo, M., Bariche, M., **Butenschön, M.**, Kay, S., Bitetto, M.D., Quattrocchi, G., Sinerchia, M., Domenici, P., 2015. Predicting future thermal habitat suitability of competing native and invasive fish species: from metabolic scope to oceanographic modelling. Conserv Physiol 3, cou059. https://doi.org/10.1093/conphys/cou059
 
 Mullon, C., Steinmetz, F., Merino, G., Fernandes, J.A., Cheung, W.W.L., **Butenschön, M.**, Barange, M., 2016. Quantitative pathways for Northeast Atlantic fisheries based on climate, ecological–economic and governance modelling scenarios. Ecological Modelling 320, 273–291. https://doi.org/10.1016/j.ecolmodel.2015.09.027
+
+Planchat, A., Kwiatkowski, L., Bopp, L., Torres, O., Christian, J.R., **Butenschön, M.**, Lovato, T., Séférian, R., Chamberlain, M.A., Aumont, O., Watanabe, M., Yamamoto, A., Yool, A., Ilyina, T., Tsujino, H., Krumhardt, K.M., Schwinger, J., Tjiputra, J., Dunne, J.P., Stock, C., 2023. The representation of alkalinity and the carbonate pump from CMIP5 to CMIP6 Earth system models and implications for the carbon cycle. Biogeosciences 20, 1195–1257. https://doi.org/10.5194/bg-20-1195-2023
 
 Polimene, L., Archer, S.D., **Butenschön, M.**, Allen, J.I., 2012a. A mechanistic explanation of the Sargasso Sea DMS “summer paradox.” Biogeochemistry 110, 243 – 255. https://doi.org/10.1007/s10533-011-9674-z
 
