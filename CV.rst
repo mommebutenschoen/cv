@@ -115,13 +115,13 @@ Teaching and Supervision
 ------------------------
 
 - Contract lecturer at the Università Ca'Foscari di Venezia in the PhD program "Science and Management of Climate Change" (2018-2020)
-- Supervision of PhD and MSc students at the univeristies of Venice and Bologna
-- Line manager of three permanent scientists at the Plymouth Marine Laboratory. (2011-2017)
+- Supervision of PhD and MSc students at the universties of Venice and Bologna
+- Line manager of various scientists at the Plymouth Marine Laboratory and Fondazione Centre Euro-Mediterraneo sui Cambiamenti Climaticiti.
 - Supervision of two placement students (1 year full time placement in the 3rd year of the undergraduate program, 2008-2010).
 - Supervision of a scientific trainee (6 month) leading into a permanent position at Scientist level. (2010-2011)
-- Lecturer on coupled models for marine ecosystem dynamics at the SESAME summer school in Malta 2008.
-- various Workshops on the use and development of the ecosystem models and their products within the CMEMS program, the EU FP7 project MEDINA for knowledge transfer to North African countries, the UK Shelf Seas Biogeochemistry and Marine Ecosystem Research Program as well as at the Korean Institute of Ocean Science and Technology.
-
+- Lecturer on coupled models for marine ecosystem dynamics at the CE2COAST winter school in Lisbon 2022 and the SESAME summer school in Malta 2008.
+- Various Workshops on the use and development of the ecosystem models and their products within the CMEMS program, the EU FP7 project MEDINA for knowledge transfer to North African countries, the UK Shelf Seas Biogeochemistry and Marine Ecosystem Research Program as well as at the Korean Institute of Ocean Science and Technology.
+- Guest lectures at various universities (e.g. University of Edinburgh, Università di Pisa, Politecnico di Milano)
 
 Language Skills
 ---------------
