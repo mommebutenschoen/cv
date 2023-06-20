@@ -148,6 +148,7 @@ Extracurricular activities
 --------------------------
 
 - President of the association `A Piedi Nudi`_, Bologna, an interdisciplinar association promoting information and education for psico-fisical and cultural well-being and prevention
+- Registered National Bicycle Touring Guide
 - Instructor of ultimate frisbee and health & fitness
 - Cycling, tennis, running, swimming, sailing
 - Playing piano and guitar
