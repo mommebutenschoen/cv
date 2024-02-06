@@ -2,7 +2,7 @@
 Momme Butenschön (PhD, MSc)
 ===========================
 
-Deputy Director of the Ocean Modeling and Data Assimilation Division and Lead Scientist of the Earth System Modelling Research Unit at the `Centro Euro-Mediterraneo sui Cambiamenti Climatici (CMCC)`_
+Lead Scientist of the Earth System Modelling Research Unit at the `Centro Euro-Mediterraneo sui Cambiamenti Climatici (CMCC)`_
 
 Centro Euro-Mediterraneo sui Cambiamenti Climatici (CMCC), Viale B. Pichat, 6/2, Bologna (BO), Italy
 
@@ -17,9 +17,6 @@ https://orcid.org/0000-0002-4592-9927
 
 Professional experience
 -----------------------
-
-since 2020
-    Deputy Director of the Ocean and Data Assimilation Division at the `Centro Euro-Mediterraneo sui Cambiamenti Climatici (CMCC)`_
 
 since September 2017
     Lead Scientist of the Earth System Modelling Research Unit at the `Centro Euro-Mediterraneo sui Cambiamenti Climatici (CMCC)`_
@@ -201,6 +198,8 @@ Holt, J., Schrum, C., Cannaby, H., Daewel, U., Allen, I., Artioli, Y., Bopp, L.,
 
 Kay, S., **Butenschön, M.**, 2018. Projections of change in key ecosystem indicators for planning and management of marine protected areas: An example study for European seas. Estuarine, Coastal and Shelf Science, Vectors of change in the marine environment 201, 172–184. https://doi.org/10.1016/j.ecss.2016.03.003
 
+Kristiansen, T., **Butenschön, M.**, Peck, M.A., 2024. Statistically downscaled CMIP6 ocean variables for European waters. Sci Rep 14, 1209. https://doi.org/10.1038/s41598-024-51160-1
+
 Kwiatkowski, L., Yool, A., Allen, J.I., Anderson, T.R., Barciela, R., Buitenhuis, E.T., **Butenschön, M.**, Enright, C., Halloran, P.R., Le Quéré, C., de Mora, L., Racault, M.-F., Sinha, B., Totterdell, I.J., Cox, P.M., 2014b. iMarNet: an ocean biogeochemistry model intercomparison project within a common physical ocean modelling framework. Biogeosciences 11, 7291–7304. doi:10.5194/bg-11-7291-2014
 Lewis, H.W., Castillo Sanchez, J.M., Graham, J., Saulter, A., Bornemann, J., Arnold, A., Fallmann, J., Harris, C., Pearson, D., Ramsdale, S., Martínez-de la Torre, A., Bricheno, L., Blyth, E., Bell, V.A., Davies, H., Marthews, T.R., O’Neill, C., Rumbold, H., O’Dea, E., Brereton, A., Guihou, K., Hines, A., Butenschon, M., Dadson, S.J., Palmer, T., Holt, J., Reynard, N., Best, M., Edwards, J., Siddorn, J., 2018. The UKC2 regional coupled environmental prediction system. Geosci. Model Dev. 11, 1–42. https://doi.org/10.5194/gmd-11-1-2018
 
@@ -210,7 +209,11 @@ Litt, E.J., Hardman-Mountford, N.J., Blackford, J.C., Mitchelson-Jacob, G., Good
 
 Maar, M., **Butenschön, M.**, Daewel, U., Eggert, A., Fan, W., Hjøllo, S.S., Hufnagl, M., Huret, M., Ji, R., Lacroix, G., Peck, M.A., Radtke, H., Sailley, S., Sinerchia, M., Skogen, M.D., Travers-Trolet, M., Troost, T.A., van de Wolfshaar, K., 2018. Responses of summer phytoplankton biomass to changes in top-down forcing: Insights from comparative modelling. Ecological Modelling 376, 54–67. https://doi.org/10.1016/j.ecolmodel.2018.03.003
 
+Maar, M., Larsen, J., **Butenschön, M.**, Kristiansen, T., Thodsen, H., Taylor, D., Schourup-Kristensen, V., 2024. Impacts of climate change on water quality, benthic mussels, and suspended mussel culture in a shallow, eutrophic estuary. Heliyon 10, e25218. https://doi.org/10.1016/j.heliyon.2024.e25218
+
 Marras, S., Cucco, A., Antognarelli, F., Azzurro, E., Milazzo, M., Bariche, M., **Butenschön, M.**, Kay, S., Bitetto, M.D., Quattrocchi, G., Sinerchia, M., Domenici, P., 2015. Predicting future thermal habitat suitability of competing native and invasive fish species: from metabolic scope to oceanographic modelling. Conserv Physiol 3, cou059. https://doi.org/10.1093/conphys/cou059
+
+Mentaschi, L., Lovato, T., **Butenschön, M.**, Alessandri, J., Aragão, L., Verri, G., Guerra, R., Coppini, G., Pinardi, N., 2024. Projected climate oligotrophication of the Adriatic marine ecosystems. Frontiers in Climate 6.
 
 Mullon, C., Steinmetz, F., Merino, G., Fernandes, J.A., Cheung, W.W.L., **Butenschön, M.**, Barange, M., 2016. Quantitative pathways for Northeast Atlantic fisheries based on climate, ecological–economic and governance modelling scenarios. Ecological Modelling 320, 273–291. https://doi.org/10.1016/j.ecolmodel.2015.09.027
 
@@ -233,6 +236,8 @@ Saux Picart, S., **Butenschön, M.**, Shutler, J.D., 2012. Wavelet-based spatial
 Villarino, E., Chust, G., Licandro, P., **Butenschön, M.**, Ibaibarriaga, L., Larrañaga, A., Irigoien, X., 2015. Modelling the future biogeography of North Atlantic zooplankton communities in response to climate change. Marine Ecology Progress Series 531, 121–142. https://doi.org/10.3354/meps11299
 
 Tagliabue, A., Kwiatkowski, L., Bopp, L., **Butenschön, M.**, Cheung, W., Lengaigne, M., Vialard, J., 2021. Persistent Uncertainties in Ocean Net Primary Production Climate Change Projections at Regional Scales Raise Challenges for Assessing Impacts on Ecosystem Services. Frontiers in Climate 3, 149. doi:10.3389/fclim.2021.738224
+
+Takano, Y., Ilyina, T., Tjiputra, J., Eddebbar, Y.A., Berthet, S., Bopp, L., Buitenhuis, E., **Butenschön, M.**, Christian, J.R., Dunne, J.P., Gröger, M., Hayashida, H., Hieronymus, J., Koenigk, T., Krasting, J.P., Long, M.C., Lovato, T., Nakano, H., Palmieri, J., Schwinger, J., Séférian, R., Suntharalingam, P., Tatebe, H., Tsujino, H., Urakawa, S., Watanabe, M., Yool, A., 2023. Simulations of ocean deoxygenation in the historical era: insights from forced and coupled models. Frontiers in Marine Science 10. https://doi.org/10.3389/fmars.2023.1139917
 
 Villarino, E., Chust, G., Licandro, P., **Butenschön, M.**, Ibaibarriaga, L., Larrañaga, A., Irigoien, X., 2015. Modelling the future biogeography of North Atlantic zooplankton communities in response to climate change. Marine Ecology Progress Series 531, 121–142. doi:10.3354/meps11299
 
