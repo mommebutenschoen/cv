@@ -18,9 +18,6 @@ https://orcid.org/0000-0002-4592-9927
 Professional experience
 -----------------------
 
-since 2020
-    Deputy Director of the Ocean and Data Assimilation Division at the `Centro Euro-Mediterraneo sui Cambiamenti Climatici (CMCC)`_
-
 since September 2017
     Lead Scientist of the Earth System Modelling Research Unit at the `Centro Euro-Mediterraneo sui Cambiamenti Climatici (CMCC)`_
     coordinating the development of the coupled Earth System Model of the institute and the `Biogoechemical Flux Model (BFM)`_ for the Marine Ecosystem.
@@ -242,6 +239,8 @@ Saux Picart, S., **Butenschön, M.**, Shutler, J.D., 2012. Wavelet-based spatial
 Villarino, E., Chust, G., Licandro, P., **Butenschön, M.**, Ibaibarriaga, L., Larrañaga, A., Irigoien, X., 2015. Modelling the future biogeography of North Atlantic zooplankton communities in response to climate change. Marine Ecology Progress Series 531, 121–142. https://doi.org/10.3354/meps11299
 
 Tagliabue, A., Kwiatkowski, L., Bopp, L., **Butenschön, M.**, Cheung, W., Lengaigne, M., Vialard, J., 2021. Persistent Uncertainties in Ocean Net Primary Production Climate Change Projections at Regional Scales Raise Challenges for Assessing Impacts on Ecosystem Services. Frontiers in Climate 3, 149. doi:10.3389/fclim.2021.738224
+
+Takano, Y., Ilyina, T., Tjiputra, J., Eddebbar, Y.A., Berthet, S., Bopp, L., Buitenhuis, E., **Butenschön, M.**, Christian, J.R., Dunne, J.P., Gröger, M., Hayashida, H., Hieronymus, J., Koenigk, T., Krasting, J.P., Long, M.C., Lovato, T., Nakano, H., Palmieri, J., Schwinger, J., Séférian, R., Suntharalingam, P., Tatebe, H., Tsujino, H., Urakawa, S., Watanabe, M., Yool, A., 2023. Simulations of ocean deoxygenation in the historical era: insights from forced and coupled models. Frontiers in Marine Science 10. https://doi.org/10.3389/fmars.2023.1139917
 
 Villarino, E., Chust, G., Licandro, P., **Butenschön, M.**, Ibaibarriaga, L., Larrañaga, A., Irigoien, X., 2015. Modelling the future biogeography of North Atlantic zooplankton communities in response to climate change. Marine Ecology Progress Series 531, 121–142. doi:10.3354/meps11299
 

@@ -6,16 +6,15 @@ Momme Butenschöm - Short Profile
 EN
 ##
 
-Momme Butenschön is Deputy Director of the Ocean Modelling and Data Assimilation
-Division and Lead Scientist of the Earth System Modelling Research Unit at CMCC.
-He has more than 10 years of experience in the field of ocean science, has
+Momme Butenschön is Lead Scientist of the Earth System Modelling Research Unit at the Institute for Earth System Prediction at CMCC.
+He has more than 20 years of experience in the field of ocean science, has
 developed a range of marine ecosystem models and model systems from coastal to
 global applications and published more than 40 peer-reviewed scientific
 publications covering a wide range of topics such as physiological process
 studies, meta-analysis of the marine ecosystem and studies on the impact of
 climate change on the marine environment, food-web and ecosystem services.
 He is a Contributing Author of the IPCC SpecialReport on Ocean and Cryosphere
-in a Changing Climtate, an invited member of the ICES Expert Group on
+in a Changing Climate, an invited member of the ICES Expert Group on
 Integrative, Physical-biological and Ecosystem Modelling and a Consortium Expert
  on the Scientific Advisory Board of the NEMO consortium.
 He teaches as contract lecturer at the University of Venice Ca'Foscari within
