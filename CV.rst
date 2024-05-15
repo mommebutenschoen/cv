@@ -175,6 +175,8 @@ Beaulieu, C., Cole, H., Henson, S., Yool, A., Anderson, T.R., de Mora, L., Buite
 
 **Butenschön, M.**, Zavatarelli, M., Vichi, M., 2012. Sensitivity of a marine coupled physical biogeochemical model to time resolution, integration scheme and time splitting method. Ocean Modelling 52-53, 36 – 53. https://doi.org/10.1016/j.ocemod.2012.04.008
 
+Chatzimentor, A., Doxa, A., **Butenschön, M.**, Kristiansen, T., Peck, M.A., Katsanevakis, S., Mazaris, A.D., 2024. Diving into warming oceans: Assessing 3D climatically suitable foraging areas of loggerhead sea turtles under climate change. Journal for Nature Conservation 79, 126620. https://doi.org/10.1016/j.jnc.2024.126620
+
 Christensen, A., **Butenschön, M.**, Gürkan, Z., Allen, I.J., 2013. Towards an integrated forecasting system for fisheries on habitat-bound stocks. Ocean Science 9, 261 – 279. https://doi.org/10.5194/os-9-261-2013
 
 Chust, G., Allen, J.I., Bopp, L., Schrum, C., Holt, J., Tsiaras, K., Zavatarelli, M., Chifflet, M., Cannaby, H., Dadou, I., Daewel, U., Wakelin, S.L., Machu, E., Pushpadas, D., **Butenschön, M.**, Artioli, Y., Petihakis, G., Smith, C., Garçon, V., Goubanova, K., Le Vu, B., Fach, B.A., Salihoglu, B., Clementi, E., Irigoien, X., 2014. Biomass changes and trophic amplification of plankton in a warmer ocean. Glob Change Biol 20, 2124–2139. https://doi.org/10.1111/gcb.12562
