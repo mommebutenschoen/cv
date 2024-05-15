@@ -141,6 +141,15 @@ French
 Spanish
    Moderate
 
+Extracurricular activities
+--------------------------
+
+- President of the association `A Piedi Nudi`_, Bologna, an interdisciplinar association promoting information and education for psico-fisical and cultural well-being and prevention
+- Registered National Bicycle Touring Guide
+- Instructor of ultimate frisbee and health & fitness
+- Cycling, tennis, running, swimming, sailing
+- Playing piano and guitar
+
 
 Scientific Publications in peer-reviewed Journals
 -------------------------------------------------
@@ -271,3 +280,4 @@ Cheung, W., Bruggeman, J., **Butenschön, M.**, 2018. Chapter 4: Projected chang
 .. _Plymouth Marine Laboratory: http://www.pml.ac.uk
 .. _`Special Report on Ocean and Cryosphere in a Changing Climate, Chapter 5: Changing Ocean, Marine Ecosystems, and Dependent Communities`: https://www.ipcc.ch/srocc/chapter/chapter-5/
 .. _NEMO: https://www.nemo-ocean.eu/
+.. _A Piedi Nudi: https://apiedinudiasd.it/
