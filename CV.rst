@@ -207,6 +207,8 @@ Holt, J., Icarus Allen, J., Anderson, T.R., Brewin, R., **Butenschön, M.**, Har
 
 Holt, J., Schrum, C., Cannaby, H., Daewel, U., Allen, I., Artioli, Y., Bopp, L., **Butenschon, M.**, Fach, B.A., Harle, J., Pushpadas, D., Salihoglu, B., Wakelin, S., 2016. Potential impacts of climate change on the primary production of regional seas: A comparative analysis of five European seas. Progress in Oceanography 140, 91–115. https://doi.org/10.1016/j.pocean.2015.11.004
 
+Janc, A., Dambrine, C., Lambert, P., Lassalle, G., Lepage, M., Lobry, J., Pierre, M., Kristiansen, T., Butenschön, M., Cabral, H.N., 2024. Fish distribution’s shifts due to climate change in the Northeast Atlantic: Using a hierarchical filtering approach on marine-estuarine opportunist species. Estuarine, Coastal and Shelf Science 109013. https://doi.org/10.1016/j.ecss.2024.109013
+
 Kay, S., **Butenschön, M.**, 2018. Projections of change in key ecosystem indicators for planning and management of marine protected areas: An example study for European seas. Estuarine, Coastal and Shelf Science, Vectors of change in the marine environment 201, 172–184. https://doi.org/10.1016/j.ecss.2016.03.003
 
 Kristiansen, T., **Butenschön, M.**, Peck, M.A., 2024. Statistically downscaled CMIP6 ocean variables for European waters. Sci Rep 14, 1209. https://doi.org/10.1038/s41598-024-51160-1
