@@ -23,8 +23,10 @@ since September 2017
     coordinating the development of the coupled Earth System Model of the institute and the `Biogoechemical Flux Model (BFM)`_ for the Marine Ecosystem.
     Studies on impacts of anthropogenic and climate change on the marine ecosystem and ecosystem services,
     natural variability and model uncertainty.
-    Heavily involved in various Euroepean research projects, such as RESCUE, CRiceS, FutureMARES, ACTNOW, CE2COAST, NECCTON, CRESCENDO.
+    Heavily involved in various Euroepean research projects, such as SAFESEA, MAR-CO2, C-BLUES, RESCUE, CRiceS, FutureMARES, ACTNOW, CE2COAST, NECCTON, CRESCENDO.
 
+Since 2026
+    Coordinator of the Horizon Europe project `OAeSIS`_
 Since 2020
     Biogeochemical Flux Model System Team Coordinator
 
@@ -211,6 +213,8 @@ Janc, A., Dambrine, C., Lambert, P., Lassalle, G., Lepage, M., Lobry, J., Pierre
 
 Kay, S., **Butenschön, M.**, 2018. Projections of change in key ecosystem indicators for planning and management of marine protected areas: An example study for European seas. Estuarine, Coastal and Shelf Science, Vectors of change in the marine environment 201, 172–184. https://doi.org/10.1016/j.ecss.2016.03.003
 
+Kristiansen, T., Miller, J., **Butenschön, M.**, 2026. Statistical downscaling reproduces high-resolution ocean transport for particle tracking in the Bering Sea. Sci Rep 16, 7290. https://doi.org/10.1038/s41598-026-37904-1
+
 Kristiansen, T., **Butenschön, M.**, Peck, M.A., 2024. Statistically downscaled CMIP6 ocean variables for European waters. Sci Rep 14, 1209. https://doi.org/10.1038/s41598-024-51160-1
 
 Kwiatkowski, L., Yool, A., Allen, J.I., Anderson, T.R., Barciela, R., Buitenhuis, E.T., **Butenschön, M.**, Enright, C., Halloran, P.R., Le Quéré, C., de Mora, L., Racault, M.-F., Sinha, B., Totterdell, I.J., Cox, P.M., 2014b. iMarNet: an ocean biogeochemistry model intercomparison project within a common physical ocean modelling framework. Biogeosciences 11, 7291–7304. doi:10.5194/bg-11-7291-2014
@@ -242,9 +246,15 @@ Peck, M.A., Arvanitidis, C., **Butenschön, M.**, Canu, D.M., Chatzinikolaou, E.
 
 Queirós, A.M., Bruggeman, J., Stephens, N., Artioli, Y., **Butenschön, M.**, Blackford, J.C., Widdicombe, S., Allen, J.I., Somerfield, P.J., 2015. Placing biodiversity in ecosystem models without getting lost in translation. Journal of Sea Research, Protecting Marine Biodiversity to Preserve Ecosystem Functioning: a Tribute to Carlo Heip 98, 83–90. https://doi.org/10.1016/j.seares.2014.10.004
 
+Salama, A.T., Lovecchio, E., Lovato, T., **Butenschön, M.**, Zavatarelli, M., Henson, S., 2026. Contrasting Responses of Dissolved Oxygen in the Northern Benguela Upwelling System to Four Decades of Warming. Journal of Geophysical Research: Oceans 131, e2025JC023848. https://doi.org/10.1029/2025JC023848
+
+Salama, A.T., Lovato, T., **Butenschön, M.**, Zavatarelli, M., 2025. A coupled physical-biogeochemical modeling approach to investigate the dynamics of the Benguela Upwelling System. Front. Mar. Sci. 12. https://doi.org/10.3389/fmars.2025.1601284
+
 Saux Picart, S., Allen, J.I., **Butenschön, M.**, Artioli, Y., Mora, L. de, Wakelin, S., Holt, J., 2014. What can ecosystem models tell us about the risk of eutrophication in the North Sea? Climatic Change 132, 111–125. https://doi.org/10.1007/s10584-014-1071-x
 
 Saux Picart, S., **Butenschön, M.**, Shutler, J.D., 2012. Wavelet-based spatial comparison technique for analysing and evaluating two-dimensional geophysical model fields. Geosci. Model Dev. 5, 223–230. https://doi.org/10.5194/gmd-5-223-2012
+
+Skákala, J., Sathyendranath, S., Artioli, Y., Banerjee, D.S., Bouman, H., Brewin, R.J.W., **Butenschön, M.**, Ciavatta, S., Dutkiewicz, S., Fidai, Y., Ford, D., George, G., Guihou, K., Jönsson, B., Bačeković Koloper, M., Kovač, Ž., Krishnakumary, L., Kulk, G., Laufkötter, C., Lessin, G., Mattern, J.P., Melet, A., Mignot, A., Moffat, D., Monteiro, F., Rodriguez Bennadji, M., Rousseaux, C.S., Swaminathan, R., Ulloa, O., Tjiputra, J., 2026. Modelling primary production: multitude of theories, or multitude of languages? Ocean Science 22, 1457–1481. https://doi.org/10.5194/os-22-1457-2026
 
 Villarino, E., Chust, G., Licandro, P., **Butenschön, M.**, Ibaibarriaga, L., Larrañaga, A., Irigoien, X., 2015. Modelling the future biogeography of North Atlantic zooplankton communities in response to climate change. Marine Ecology Progress Series 531, 121–142. https://doi.org/10.3354/meps11299
 
@@ -287,3 +297,4 @@ Siedlecki, S., Bellerby, R., School, K.L., Pitcher, G., Lovenduski, N., Long, M.
 .. _`Special Report on Ocean and Cryosphere in a Changing Climate, Chapter 5: Changing Ocean, Marine Ecosystems, and Dependent Communities`: https://www.ipcc.ch/srocc/chapter/chapter-5/
 .. _NEMO: https://www.nemo-ocean.eu/
 .. _A Piedi Nudi: https://apiedinudiasd.it/
+.. _OAeSIS: https://oaesis.eu/
