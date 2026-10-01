@@ -169,6 +169,7 @@ Beaulieu, C., Cole, H., Henson, S., Yool, A., Anderson, T.R., de Mora, L., Buite
 
 **Butenschön, M.**, Lovato, T., Masina, S., Caserini, S., Grosso, M., 2021. Alkalinization scenarios in the Mediterranean Sea for efficient removal of atmospheric CO 2 and the mitigation of ocean acidification. Front. Clim. 3. https://doi.org/10.3389/fclim.2021.614537
 
+
 **Butenschön, M.**, Clark, J., Aldridge, J.N., Allen, J.I., Artioli, Y., Blackford, J., Bruggeman, J., Cazenave, P., Ciavatta, S., Kay, S., Lessin, G., van Leeuwen, S., van der Molen, J., de Mora, L., Polimene, L., Sailley, S., Stephens, N., Torres, R., 2015. ERSEM 15.06: a generic model for marine biogeochemistry and the ecosystem dynamics of the lower trophic levels. Geosci. Model Dev. 9, 1293–1339. https://doi.org/10.5194/gmd-9-1293-2016
 
 **Butenschön, M.**, Zavatarelli, M., 2012. A comparison of different versions of the SEEK Filter for assimilation of biogeochemical data in numerical models of marine ecosystem dynamics. Ocean Modelling 54-55, 37 – 54. https://doi.org/10.1016/j.ocemod.2012.06.003
@@ -253,6 +254,8 @@ Salama, A.T., Lovato, T., **Butenschön, M.**, Zavatarelli, M., 2025. A coupled 
 Saux Picart, S., Allen, J.I., **Butenschön, M.**, Artioli, Y., Mora, L. de, Wakelin, S., Holt, J., 2014. What can ecosystem models tell us about the risk of eutrophication in the North Sea? Climatic Change 132, 111–125. https://doi.org/10.1007/s10584-014-1071-x
 
 Saux Picart, S., **Butenschön, M.**, Shutler, J.D., 2012. Wavelet-based spatial comparison technique for analysing and evaluating two-dimensional geophysical model fields. Geosci. Model Dev. 5, 223–230. https://doi.org/10.5194/gmd-5-223-2012
+
+Schwinger, J., Merfort, L., Bauer, N., Bernardello, R., **Butenschön, M.**, Bourgeois, T., Gidden, M.J., Gupta, S., Lee, H., Mengis, N., Moustakis, Y., Muri, H., Nieradzik, L., Peano, D., Pongratz, J., Sauer, P., Tourigny, E., Wårlind, D., 2026. Assessing Earth system responses in mitigation scenarios with activity-driven simulation of carbon dioxide removal. Earth System Dynamics 17, 1341–1363. https://doi.org/10.5194/esd-17-1341-2026
 
 Skákala, J., Sathyendranath, S., Artioli, Y., Banerjee, D.S., Bouman, H., Brewin, R.J.W., **Butenschön, M.**, Ciavatta, S., Dutkiewicz, S., Fidai, Y., Ford, D., George, G., Guihou, K., Jönsson, B., Bačeković Koloper, M., Kovač, Ž., Krishnakumary, L., Kulk, G., Laufkötter, C., Lessin, G., Mattern, J.P., Melet, A., Mignot, A., Moffat, D., Monteiro, F., Rodriguez Bennadji, M., Rousseaux, C.S., Swaminathan, R., Ulloa, O., Tjiputra, J., 2026. Modelling primary production: multitude of theories, or multitude of languages? Ocean Science 22, 1457–1481. https://doi.org/10.5194/os-22-1457-2026
 
