@@ -159,6 +159,8 @@ Scientific Publications in peer-reviewed Journals
 *Abstracts available at*
    http://publications.mommesworld.com
 
+Alessandri, J., Bonino, G., Lovato, T., **Butenschön, M.**, Mentaschi, L., Verri, G., Federico, I., Pinardi, N., 2026. ShyBFM v1.0: unstructured grid advection-diffusion-reaction modelling for coastal biogeochemical processes. Geoscientific Model Development 19, 9301–9324. https://doi.org/10.5194/gmd-19-9301-2026
+
 Artioli, Y., Blackford, J.C., **Butenschön, M.**, Holt, J.T., Wakelin, S.L., Thomas, H., Borges, A.V., Allen, J.I., 2012. The carbonate system in the North Sea: Sensitivity and model validation. Journal of Marine Systems 102–104, 1–13. https://doi.org/10.1016/j.jmarsys.2012.04.006
 
 Artioli, Y., Blackford, J.C., Nondal, G., Bellerby, R.G.J., Wakelin, S.L., Holt, J.T., **Butenschön, M.**, Allen, J.I., 2014. Heterogeneity of impacts of high CO2 on the North Western European Shelf. Biogeosciences 11, 601–612. https://doi.org/10.5194/bg-11-601-2014
