@@ -15,7 +15,7 @@ Centro Euro-Mediterraneo sui Cambiamenti Climatici (CMCC), Viale B. Pichat, 6/2,
 ## Professional experience
 
 **since September 2017**  
-Lead Scientist of the Earth System Modelling Research Unit at the [Centro Euro-Mediterraneo sui Cambiamenti Climatici (CMCC)](http://www.cmcc.it) coordinating the development of the coupled Earth System Model of the institute and the [Biogoechemical Flux Model (BFM)](http://bfm-community.eu/) for the Marine Ecosystem. Studies on impacts of anthropogenic and climate change on the marine ecosystem and ecosystem services, natural variability and model uncertainty. Heavily involved in various Euroepean research projects, such as SAFESEA, MAR-CO2, C-BLUES, RESCUE, CRiceS, FutureMARES, ACTNOW, CE2COAST, NECCTON, CRESCENDO.
+Lead Scientist of the Earth System Modelling Research Unit at the [Centro Euro-Mediterraneo sui Cambiamenti Climatici (CMCC)](http://www.cmcc.it) coordinating the development of the coupled Earth System Model of the institute and the [Biogoechemical Flux Model (BFM)](http://bfm-community.eu/) for the Marine Ecosystem. Studies on impacts of anthropogenic and climate change on the marine ecosystem and ecosystem services, natural variability and model uncertainty. Heavily involved in various European research projects, such as SAFESEA, MAR-CO2, C-BLUES, RESCUE, CRiceS, FutureMARES, ACTNOW, CE2COAST, NECCTON, CRESCENDO.
 
 **Since 2026**  
 Coordinator of the Horizon Europe project [OAeSIS](https://oaesis.eu/)
@@ -23,11 +23,11 @@ Coordinator of the Horizon Europe project [OAeSIS](https://oaesis.eu/)
 **Since 2020**  
 Biogeochemical Flux Model System Team Coordinator
 
-**Dicembre 2019**  
+**December 2019**  
 Contributing Author to the IPCC [Special Report on Ocean and Cryosphere in a Changing Climate, Chapter 5: Changing Ocean, Marine Ecosystems, and Dependent Communities](https://www.ipcc.ch/srocc/chapter/chapter-5/).
 
 **Since 2019**  
-Consortium Expert on the Scientific Advisory Board of the [NEMO](https://www.nemo-ocean.eu/) constortium.
+Consortium Expert on the Scientific Advisory Board of the [NEMO](https://www.nemo-ocean.eu/) consortium.
 
 **Since March 2012**  
 Nominated Member of the ICES Expert Group on Integrative, Biological-Physical Modelling.
@@ -42,7 +42,7 @@ Senior Scientist position at the [Plymouth Marine Laboratory](http://www.pml.ac.
 Scientist position at the [Plymouth Marine Laboratory](http://www.pml.ac.uk) as Marine Ecosystem Modeller on the development of the ecosystem model [ERSEM](http://www.pml.ac.uk/Modelling/Models/ERSEM) and its coupling to general circulation models; strong involvement in a multitude of research initiatives.
 
 **2007 - 2008**  
-Post-Doc (Full time employee) - Università di Bologna: Development of a coupled marine ecosystem dynamics model including data assimilation based on the Princeton Ocean Model and the Biogoechemical Flux Model.
+Post-Doc (Full time employee) - Università di Bologna: Development of a coupled marine ecosystem dynamics model including data assimilation based on the Princeton Ocean Model and the Biogeochemical Flux Model.
 
 **2003 - 2007**  
 Post-Graduate (Full time employee) - Università di Bologna: Development of a coupled marine ecosystem dynamics model including data assimilation as part of the EU FP5 MFSTEP project.
@@ -65,7 +65,7 @@ Graduate Student (Full time employee) - Flygteknisk Főrsőksanstalt Stockholm: 
 
 **8-10 May 2012** High Performance Computing Course: Debugging, Profiling and Optimisation
 
-**8-9 Decemeber 2010** Project Management Course
+**8-9 December 2010** Project Management Course
 
 **14-18 April 2008** High Performance Computing Course: Introduction to MPI and Python
 
@@ -82,8 +82,8 @@ Dipl. Ing. (MSc): Physikalische Ingenieurwissenshaft/Engineering Physics
 ## Teaching and Supervision
 
 - Contract lecturer at the Università Ca'Foscari di Venezia in the PhD program "Science and Management of Climate Change" (2018-2020)
-- Supervision of PhD and MSc students at the universties of Venice and Bologna
-- Line manager of various scientists at the Plymouth Marine Laboratory and Fondazione Centre Euro-Mediterraneo sui Cambiamenti Climaticiti.
+- Supervision of PhD and MSc students at the universities of Venice and Bologna
+- Line manager of various scientists at the Plymouth Marine Laboratory and Fondazione Centre Euro-Mediterraneo sui Cambiamenti Climatici.
 - Supervision of two placement students (1 year full time placement in the 3rd year of the undergraduate program, 2008-2010).
 - Supervision of a scientific trainee (6 month) leading into a permanent position at Scientist level. (2010-2011)
 - Lecturer on coupled models for marine ecosystem dynamics at the CE2COAST winter school in Lisbon 2022 and the SESAME summer school in Malta 2008.
@@ -139,8 +139,6 @@ Beaulieu, C., Cole, H., Henson, S., Yool, A., Anderson, T.R., de Mora, L., Buite
 
 **Butenschön, M.**, Zavatarelli, M., 2012. A comparison of different versions of the SEEK Filter for assimilation of biogeochemical data in numerical models of marine ecosystem dynamics. Ocean Modelling 54-55, 37 – 54. <https://doi.org/10.1016/j.ocemod.2012.06.003>
 
-**Butenschön, M.**, Lovato, T., Masina, S., Caserini, S., Grosso, M., 2021. Alkalinization Scenarios in the Mediterranean Sea for Efficient Removal of Atmospheric CO2 and the Mitigation of Ocean Acidification. Front. Clim. 3. <https://doi.org/10.3389/fclim.2021.614537>
-
 **Butenschön, M.**, Zavatarelli, M., Vichi, M., 2012. Sensitivity of a marine coupled physical biogeochemical model to time resolution, integration scheme and time splitting method. Ocean Modelling 52-53, 36 – 53. <https://doi.org/10.1016/j.ocemod.2012.04.008>
 
 Chatzimentor, A., Doxa, A., **Butenschön, M.**, Kristiansen, T., Peck, M.A., Katsanevakis, S., Mazaris, A.D., 2024. Diving into warming oceans: Assessing 3D climatically suitable foraging areas of loggerhead sea turtles under climate change. Journal for Nature Conservation 79, 126620. <https://doi.org/10.1016/j.jnc.2024.126620>
@@ -187,7 +185,7 @@ Kwiatkowski, L., Yool, A., Allen, J.I., Anderson, T.R., Barciela, R., Buitenhuis
 
 Lewis, H.W., Castillo Sanchez, J.M., Graham, J., Saulter, A., Bornemann, J., Arnold, A., Fallmann, J., Harris, C., Pearson, D., Ramsdale, S., Martínez-de la Torre, A., Bricheno, L., Blyth, E., Bell, V.A., Davies, H., Marthews, T.R., O’Neill, C., Rumbold, H., O’Dea, E., Brereton, A., Guihou, K., Hines, A., Butenschon, M., Dadson, S.J., Palmer, T., Holt, J., Reynard, N., Best, M., Edwards, J., Siddorn, J., 2018. The UKC2 regional coupled environmental prediction system. Geosci. Model Dev. 11, 1–42. <https://doi.org/10.5194/gmd-11-1-2018>
 
-Lessin, G., Polimene, L., Artioli, Y., **Butenschön, M.**, Clark, D.R., Brown, I., Rees, A.P., n.d. Modeling the seasonality and controls of nitrous oxide emissions on the northwest European continental shelf. Journal of Geophysical Research: Biogeosciences n/a, e2019JG005613. <https://doi.org/10.1029/2019JG005613>
+Lessin, G., Polimene, L., Artioli, Y., **Butenschön, M.**, Clark, D.R., Brown, I., Rees, A.P., 2020. Modeling the seasonality and controls of nitrous oxide emissions on the northwest European continental shelf. Journal of Geophysical Research: Biogeosciences n/a, e2019JG005613. <https://doi.org/10.1029/2019JG005613>
 
 Litt, E.J., Hardman-Mountford, N.J., Blackford, J.C., Mitchelson-Jacob, G., Goodman, A., Moore, G.F., Cummings, D.G., **Butenschön, M.**, 2010. Biological control of pCO2 at station L4 in the Western English Channel over 3 years. J. Plankton Res. 32, 621–629. <https://doi.org/10.1093/plankt/fbp133>
 
@@ -197,7 +195,7 @@ Maar, M., Larsen, J., **Butenschön, M.**, Kristiansen, T., Thodsen, H., Taylor,
 
 Marras, S., Cucco, A., Antognarelli, F., Azzurro, E., Milazzo, M., Bariche, M., **Butenschön, M.**, Kay, S., Bitetto, M.D., Quattrocchi, G., Sinerchia, M., Domenici, P., 2015. Predicting future thermal habitat suitability of competing native and invasive fish species: from metabolic scope to oceanographic modelling. Conserv Physiol 3, cou059. <https://doi.org/10.1093/conphys/cou059>
 
-Mentaschi, L., Lovato, T., **Butenschön, M.**, Alessandri, J., Aragão, L., Verri, G., Guerra, R., Coppini, G., Pinardi, N., 2024. Projected climate oligotrophication of the Adriatic marine ecosystems. Frontiers in Climate 6.
+Mentaschi, L., Lovato, T., **Butenschön, M.**, Alessandri, J., Aragão, L., Verri, G., Guerra, R., Coppini, G., Pinardi, N., 2024. Projected climate oligotrophication of the Adriatic marine ecosystems. Frontiers in Climate 6. <https://doi.org/10.3389/fclim.2024.1338374>
 
 Mullon, C., Steinmetz, F., Merino, G., Fernandes, J.A., Cheung, W.W.L., **Butenschön, M.**, Barange, M., 2016. Quantitative pathways for Northeast Atlantic fisheries based on climate, ecological–economic and governance modelling scenarios. Ecological Modelling 320, 273–291. <https://doi.org/10.1016/j.ecolmodel.2015.09.027>
 
@@ -224,8 +222,6 @@ Saux Picart, S., **Butenschön, M.**, Shutler, J.D., 2012. Wavelet-based spatial
 Schwinger, J., Merfort, L., Bauer, N., Bernardello, R., **Butenschön, M.**, Bourgeois, T., Gidden, M.J., Gupta, S., Lee, H., Mengis, N., Moustakis, Y., Muri, H., Nieradzik, L., Peano, D., Pongratz, J., Sauer, P., Tourigny, E., Wårlind, D., 2026. Assessing Earth system responses in mitigation scenarios with activity-driven simulation of carbon dioxide removal. Earth System Dynamics 17, 1341–1363. <https://doi.org/10.5194/esd-17-1341-2026>
 
 Skákala, J., Sathyendranath, S., Artioli, Y., Banerjee, D.S., Bouman, H., Brewin, R.J.W., **Butenschön, M.**, Ciavatta, S., Dutkiewicz, S., Fidai, Y., Ford, D., George, G., Guihou, K., Jönsson, B., Bačeković Koloper, M., Kovač, Ž., Krishnakumary, L., Kulk, G., Laufkötter, C., Lessin, G., Mattern, J.P., Melet, A., Mignot, A., Moffat, D., Monteiro, F., Rodriguez Bennadji, M., Rousseaux, C.S., Swaminathan, R., Ulloa, O., Tjiputra, J., 2026. Modelling primary production: multitude of theories, or multitude of languages? Ocean Science 22, 1457–1481. <https://doi.org/10.5194/os-22-1457-2026>
-
-Villarino, E., Chust, G., Licandro, P., **Butenschön, M.**, Ibaibarriaga, L., Larrañaga, A., Irigoien, X., 2015. Modelling the future biogeography of North Atlantic zooplankton communities in response to climate change. Marine Ecology Progress Series 531, 121–142. <https://doi.org/10.3354/meps11299>
 
 Tagliabue, A., Kwiatkowski, L., Bopp, L., **Butenschön, M.**, Cheung, W., Lengaigne, M., Vialard, J., 2021. Persistent Uncertainties in Ocean Net Primary Production Climate Change Projections at Regional Scales Raise Challenges for Assessing Impacts on Ecosystem Services. Frontiers in Climate 3, 149. <doi:10.3389/fclim.2021.738224>
 
