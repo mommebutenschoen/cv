@@ -124,6 +124,12 @@ h1.title {
     font-weight: 500;
 }
 
+h2 {
+    margin-top: 2em;
+    font-size: large;
+    font-weight: 400;
+}
+
 /* Pandoc with --section-divs option */
 
 div div, section section /* Nested sections */
